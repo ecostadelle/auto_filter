@@ -46,34 +46,34 @@ def load_dataset_dialog():
     path = filedialog.askopenfilename()
     df = pd.read_csv(path, na_values='?', sep='\t', index_col=0)
     if 'STITCH_Code' in df:
-        df = df.drop('STITCH_Code', 1)  # leave it in if we don't have stitch code
+        df = df.drop('STITCH_Code', axis=1)  # leave it in if we don't have stitch code
     if 'STITCH Code' in df:
-        df = df.drop('STITCH Code', 1)  # leave it in if we don't have stitch code
+        df = df.drop('STITCH Code', axis=1)  # leave it in if we don't have stitch code
     if 'STITCH_Compound' in df:
-        df = df.drop('STITCH_Compound', 1)
+        df = df.drop('STITCH_Compound', axis=1)
     if 'STITCH Compound' in df:
-        df = df.drop('STITCH Compound', 1)
+        df = df.drop('STITCH Compound', axis=1)
     if 'InteractorsList' in df:
-        df = df.drop('InteractorsList', 1)
+        df = df.drop('InteractorsList', axis=1)
     if 'InteractorsCount' in df:
-            df = df.drop('InteractorsCount', 1)
+            df = df.drop('InteractorsCount', axis=1)
     return df
 
 
 def load_dataset_filepath(filepath):
     df = pd.read_csv(filepath, na_values='?', sep='\t', index_col=0)
     if 'STITCH_Code' in df:
-        df = df.drop('STITCH_Code', 1)  # leave it in if we don't have stitch code
+        df = df.drop('STITCH_Code', axis=1)  # leave it in if we don't have stitch code
     if 'STITCH Code' in df:
-        df = df.drop('STITCH Code', 1)  # leave it in if we don't have stitch code
+        df = df.drop('STITCH Code', axis=1)  # leave it in if we don't have stitch code
     if 'STITCH_Compound' in df:
-        df = df.drop('STITCH_Compound', 1)
+        df = df.drop('STITCH_Compound', axis=1)
     if 'STITCH Compound' in df:
-        df = df.drop('STITCH Compound', 1)
+        df = df.drop('STITCH Compound', axis=1)
     if 'InteractorsList' in df:
-        df = df.drop('InteractorsList', 1)
+        df = df.drop('InteractorsList', axis=1)
     if 'InteractorsCount' in df:
-            df = df.drop('InteractorsCount', 1)
+            df = df.drop('InteractorsCount', axis=1)
     return df
 
 
@@ -96,7 +96,7 @@ def removeLowFrequencyFeatures(df, threshold):
         except:
             mostFrequent = 0
         if number_instances - mostFrequent < threshold:
-            df = df.drop(feature, 1)
+            df = df.drop(feature, axis=1)
     return df
 
 
@@ -112,8 +112,8 @@ def removeLowFrequencyFeatures_TrainTest(training_set, test_set, threshold):
         except:
             mostFrequent = 0
         if number_instances - mostFrequent < threshold:
-            training_set = training_set.drop(feature, 1)
-            test_set = test_set.drop(feature, 1)
+            training_set = training_set.drop(feature, axis=1)
+            test_set = test_set.drop(feature, axis=1)
     return training_set, test_set
 
 

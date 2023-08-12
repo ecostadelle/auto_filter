@@ -11,7 +11,7 @@ from math import sqrt
 # Trains a RF classifier given a train and test set and returns its area under the roc curve result
 def train_randomforest_AUC(X_train, X_test, y_train, y_test, apply_undersampling):
     if apply_undersampling:
-        rf = BalancedRandomForestClassifier(n_estimators=500, random_state=0)
+        rf = BalancedRandomForestClassifier(n_estimators=500, random_state=0, sampling_strategy='auto', replacement=False)
     else:
         rf = RandomForestClassifier(n_estimators=500, random_state=0, class_weight='balanced_subsample')
     rf = rf.fit(X_train, y_train)
@@ -23,7 +23,7 @@ def train_randomforest_AUC(X_train, X_test, y_train, y_test, apply_undersampling
 # Trains a RF classifier given a train and test set and returns its geometric mean result
 def train_randomforest_gmean(X_train, X_test, y_train, y_test, apply_undersampling):
     if apply_undersampling:
-        rf = BalancedRandomForestClassifier(n_estimators=500, random_state=0)
+        rf = BalancedRandomForestClassifier(n_estimators=500, random_state=0, sampling_strategy='auto', replacement=False)
     else:
         rf = RandomForestClassifier(n_estimators=500, random_state=0)
     rf = rf.fit(X_train, y_train)

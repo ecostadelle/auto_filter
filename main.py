@@ -79,7 +79,7 @@ def main(filepath, BRF_undersampling, unusable_feature_threshold, filter_method,
 
 if __name__ == "__main__":
     # Test parameters
-    filename = 'C Elegans datasets/Version-1 datasets (no score threshold)/CElegans GOTerms dataset_v1.tsv' # set as empty ("") to have a file selection dialog
+    filename = 'C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans GOTerms dataset_v1.tsv' # set as empty ("") to have a file selection dialog
     #filename = ""  # set as empty ("") to have a file selection dialog
     unusable_feature_threshold = 10  # features with too few different values are removed in a preprocessing step
     BRF_undersampling = True  # True: undersample the training set to a 1:1 ratio (uses BRF for RF classifiers).
