@@ -36,8 +36,10 @@ def set_nfeatures_array(feature_count):
         return [250, 500, 750, 1000]
     elif feature_count > 500:
         return [100, 200, 300, 400]
-    else:
+    elif feature_count > 100:
         return [25, 50, 75, 100]
+    else:
+        return [25, 50, 75, 99]
 
 
 def load_dataset_dialog():

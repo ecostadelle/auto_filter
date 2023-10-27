@@ -163,7 +163,7 @@ def apply_filter(df, feature_score_dict, nfeatures):
 def apply_chosenfilterstrategy(df, train_index, test_index, filter_method, nfeatures):
     if nfeatures > df.shape[1] or nfeatures <=0:
         print(f'Warning, invalid k value. k: {nfeatures} features: {df.shape[1]}. Setting k as all.')
-        nfeatures = 'all'
+        nfeatures = df.shape[1]-1
     else:
         print(f'Applying filter {filter_method} with k: {nfeatures}')
     X_train, X_test = df.iloc[train_index, :-1], df.iloc[test_index, :-1]

@@ -11,9 +11,9 @@ from math import sqrt
 # Trains a RF classifier given a train and test set and returns its area under the roc curve result
 def train_randomforest_AUC(X_train, X_test, y_train, y_test, apply_undersampling):
     if apply_undersampling:
-        rf = BalancedRandomForestClassifier(n_estimators=500, random_state=0, sampling_strategy='auto', replacement=False)
+        rf = BalancedRandomForestClassifier(n_estimators=500, random_state=0, sampling_strategy='auto', replacement=False, n_jobs=-1)
     else:
-        rf = RandomForestClassifier(n_estimators=500, random_state=0, class_weight='balanced_subsample')
+        rf = RandomForestClassifier(n_estimators=500, random_state=0, class_weight='balanced_subsample', n_jobs=-1)
     rf = rf.fit(X_train, y_train)
     y_pred_prob = rf.predict_proba(X_test)
     AUC = roc_auc_score(y_test, y_pred_prob[:, 1])
@@ -23,9 +23,9 @@ def train_randomforest_AUC(X_train, X_test, y_train, y_test, apply_undersampling
 # Trains a RF classifier given a train and test set and returns its geometric mean result
 def train_randomforest_gmean(X_train, X_test, y_train, y_test, apply_undersampling):
     if apply_undersampling:
-        rf = BalancedRandomForestClassifier(n_estimators=500, random_state=0, sampling_strategy='auto', replacement=False)
+        rf = BalancedRandomForestClassifier(n_estimators=500, random_state=0, sampling_strategy='auto', replacement=False, n_jobs=-1)
     else:
-        rf = RandomForestClassifier(n_estimators=500, random_state=0)
+        rf = RandomForestClassifier(n_estimators=500, random_state=0, n_jobs=-1)
     rf = rf.fit(X_train, y_train)
     y_pred = rf.predict(X_test)
     tn, fp, fn, tp = confusion_matrix(y_test, y_pred).ravel()
@@ -45,7 +45,7 @@ def train_decisionstump_auc(df):
     for train_index, test_index in kf.split(X, y):
         X_train, X_test = X.iloc[train_index, :], X.iloc[test_index, :]
         y_train, y_test = y.iloc[train_index], y.iloc[test_index]
-        ds = tree.DecisionTreeClassifier()
+        ds = tree.DecisionTreeClassifier(max_depth=1)
         ds = ds.fit(X_train, y_train)
         y_pred_prob = ds.predict_proba(X_test)
         score_array.append(roc_auc_score(y_test, y_pred_prob[:, 1]))

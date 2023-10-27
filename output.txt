@@ -1,0 +1,637 @@
+Running InternalCV for AutoFilter. Method: InfoGain k: 25
+Running InternalCV for AutoFilter. Method: InfoGain k: 50
+Running InternalCV for AutoFilter. Method: InfoGain k: 75
+Running InternalCV for AutoFilter. Method: InfoGain k: 100
+Running InternalCV for AutoFilter. Method: Chi2 k: 25
+Running InternalCV for AutoFilter. Method: Chi2 k: 50
+Running InternalCV for AutoFilter. Method: Chi2 k: 75
+Running InternalCV for AutoFilter. Method: Chi2 k: 100
+Running InternalCV for AutoFilter. Method: DecisionStump k: 25
+Running InternalCV for AutoFilter. Method: DecisionStump k: 50
+Running InternalCV for AutoFilter. Method: DecisionStump k: 75
+Running InternalCV for AutoFilter. Method: DecisionStump k: 100
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 25
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 50
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 75
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 100
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 25
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 50
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 75
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 100
+Candidate Filter: InfoGain, k: 25. Median AUC Score: 0.705, AUC variance: 0.005
+Candidate Filter: InfoGain, k: 50. Median AUC Score: 0.741, AUC variance: 0.007
+Candidate Filter: InfoGain, k: 75. Median AUC Score: 0.756, AUC variance: 0.008
+Candidate Filter: InfoGain, k: 100. Median AUC Score: 0.707, AUC variance: 0.008
+Candidate Filter: Chi2, k: 25. Median AUC Score: 0.699, AUC variance: 0.005
+Candidate Filter: Chi2, k: 50. Median AUC Score: 0.75, AUC variance: 0.008
+Candidate Filter: Chi2, k: 75. Median AUC Score: 0.759, AUC variance: 0.005
+Candidate Filter: Chi2, k: 100. Median AUC Score: 0.762, AUC variance: 0.004
+Candidate Filter: DecisionStump, k: 25. Median AUC Score: 0.667, AUC variance: 0.004
+Candidate Filter: DecisionStump, k: 50. Median AUC Score: 0.693, AUC variance: 0.004
+Candidate Filter: DecisionStump, k: 75. Median AUC Score: 0.667, AUC variance: 0.005
+Candidate Filter: DecisionStump, k: 100. Median AUC Score: 0.655, AUC variance: 0.006
+Candidate Filter: LogOddsRatio, k: 25. Median AUC Score: 0.742, AUC variance: 0.009
+Candidate Filter: LogOddsRatio, k: 50. Median AUC Score: 0.74, AUC variance: 0.01
+Candidate Filter: LogOddsRatio, k: 75. Median AUC Score: 0.696, AUC variance: 0.011
+Candidate Filter: LogOddsRatio, k: 100. Median AUC Score: 0.738, AUC variance: 0.006
+Candidate Filter: AsymmetricOptimalPrediction, k: 25. Median AUC Score: 0.735, AUC variance: 0.009
+Candidate Filter: AsymmetricOptimalPrediction, k: 50. Median AUC Score: 0.717, AUC variance: 0.012
+Candidate Filter: AsymmetricOptimalPrediction, k: 75. Median AUC Score: 0.724, AUC variance: 0.01
+Candidate Filter: AsymmetricOptimalPrediction, k: 100. Median AUC Score: 0.712, AUC variance: 0.006
+Chosen strategy: Chi2_100. Average score 0.7621237458193979 and variance 0.004161991772738814
+AutoFilter InternalCV end. Selected filter strategy : Chi2 with k = 100
+Applying filter Chi2 with k: 100
+Fold 1. AUC score: 0.62
+Applying filter Chi2 with k: 100
+Fold 2. AUC score: 0.581
+Applying filter Chi2 with k: 100
+Fold 3. AUC score: 0.664
+Applying filter Chi2 with k: 100
+Fold 4. AUC score: 0.643
+Applying filter Chi2 with k: 100
+Fold 5. AUC score: 0.711
+Applying filter Chi2 with k: 100
+Fold 6. AUC score: 0.743
+Applying filter Chi2 with k: 100
+Fold 7. AUC score: 0.731
+Applying filter Chi2 with k: 100
+Fold 8. AUC score: 0.769
+Applying filter Chi2 with k: 100
+Fold 9. AUC score: 0.788
+Applying filter Chi2 with k: 100
+Fold 10. AUC score: 0.836
+Median AUC: 0.721
+Running InternalCV for AutoFilter. Method: InfoGain k: 250
+Running InternalCV for AutoFilter. Method: InfoGain k: 500
+Running InternalCV for AutoFilter. Method: InfoGain k: 750
+Running InternalCV for AutoFilter. Method: InfoGain k: 1000
+Running InternalCV for AutoFilter. Method: Chi2 k: 250
+Running InternalCV for AutoFilter. Method: Chi2 k: 500
+Running InternalCV for AutoFilter. Method: Chi2 k: 750
+Running InternalCV for AutoFilter. Method: Chi2 k: 1000
+Running InternalCV for AutoFilter. Method: DecisionStump k: 250
+Running InternalCV for AutoFilter. Method: DecisionStump k: 500
+Running InternalCV for AutoFilter. Method: DecisionStump k: 750
+Running InternalCV for AutoFilter. Method: DecisionStump k: 1000
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 250
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 500
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 750
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 1000
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 250
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 500
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 750
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 1000
+Candidate Filter: InfoGain, k: 250. Median AUC Score: 0.825, AUC variance: 0.011
+Candidate Filter: InfoGain, k: 500. Median AUC Score: 0.813, AUC variance: 0.009
+Candidate Filter: InfoGain, k: 750. Median AUC Score: 0.827, AUC variance: 0.007
+Candidate Filter: InfoGain, k: 1000. Median AUC Score: 0.832, AUC variance: 0.009
+Candidate Filter: Chi2, k: 250. Median AUC Score: 0.8, AUC variance: 0.009
+Candidate Filter: Chi2, k: 500. Median AUC Score: 0.81, AUC variance: 0.008
+Candidate Filter: Chi2, k: 750. Median AUC Score: 0.82, AUC variance: 0.008
+Candidate Filter: Chi2, k: 1000. Median AUC Score: 0.83, AUC variance: 0.007
+Candidate Filter: DecisionStump, k: 250. Median AUC Score: 0.808, AUC variance: 0.006
+Candidate Filter: DecisionStump, k: 500. Median AUC Score: 0.811, AUC variance: 0.006
+Candidate Filter: DecisionStump, k: 750. Median AUC Score: 0.82, AUC variance: 0.008
+Candidate Filter: DecisionStump, k: 1000. Median AUC Score: 0.826, AUC variance: 0.007
+Candidate Filter: LogOddsRatio, k: 250. Median AUC Score: 0.77, AUC variance: 0.008
+Candidate Filter: LogOddsRatio, k: 500. Median AUC Score: 0.757, AUC variance: 0.006
+Candidate Filter: LogOddsRatio, k: 750. Median AUC Score: 0.788, AUC variance: 0.005
+Candidate Filter: LogOddsRatio, k: 1000. Median AUC Score: 0.805, AUC variance: 0.008
+Candidate Filter: AsymmetricOptimalPrediction, k: 250. Median AUC Score: 0.754, AUC variance: 0.007
+Candidate Filter: AsymmetricOptimalPrediction, k: 500. Median AUC Score: 0.753, AUC variance: 0.006
+Candidate Filter: AsymmetricOptimalPrediction, k: 750. Median AUC Score: 0.791, AUC variance: 0.006
+Candidate Filter: AsymmetricOptimalPrediction, k: 1000. Median AUC Score: 0.796, AUC variance: 0.007
+Chosen strategy: InfoGain_1000. Average score 0.8323578595317724 and variance 0.008529081377176543
+AutoFilter InternalCV end. Selected filter strategy : InfoGain with k = 1000
+Applying filter InfoGain with k: 1000
+Fold 1. AUC score: 0.658
+Applying filter InfoGain with k: 1000
+Fold 2. AUC score: 0.672
+Applying filter InfoGain with k: 1000
+Fold 3. AUC score: 0.659
+Applying filter InfoGain with k: 1000
+Fold 4. AUC score: 0.757
+Applying filter InfoGain with k: 1000
+Fold 5. AUC score: 0.843
+Applying filter InfoGain with k: 1000
+Fold 6. AUC score: 0.774
+Applying filter InfoGain with k: 1000
+Fold 7. AUC score: 0.837
+Applying filter InfoGain with k: 1000
+Fold 8. AUC score: 0.851
+Applying filter InfoGain with k: 1000
+Fold 9. AUC score: 0.941
+Applying filter InfoGain with k: 1000
+Fold 10. AUC score: 0.842
+Median AUC: 0.805
+Running InternalCV for AutoFilter. Method: InfoGain k: 250
+Running InternalCV for AutoFilter. Method: InfoGain k: 500
+Running InternalCV for AutoFilter. Method: InfoGain k: 750
+Running InternalCV for AutoFilter. Method: InfoGain k: 1000
+Running InternalCV for AutoFilter. Method: Chi2 k: 250
+Running InternalCV for AutoFilter. Method: Chi2 k: 500
+Running InternalCV for AutoFilter. Method: Chi2 k: 750
+Running InternalCV for AutoFilter. Method: Chi2 k: 1000
+Running InternalCV for AutoFilter. Method: DecisionStump k: 250
+Running InternalCV for AutoFilter. Method: DecisionStump k: 500
+Running InternalCV for AutoFilter. Method: DecisionStump k: 750
+Running InternalCV for AutoFilter. Method: DecisionStump k: 1000
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 250
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 500
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 750
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 1000
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 250
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 500
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 750
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 1000
+Candidate Filter: InfoGain, k: 250. Median AUC Score: 0.678, AUC variance: 0.023
+Candidate Filter: InfoGain, k: 500. Median AUC Score: 0.71, AUC variance: 0.02
+Candidate Filter: InfoGain, k: 750. Median AUC Score: 0.696, AUC variance: 0.02
+Candidate Filter: InfoGain, k: 1000. Median AUC Score: 0.692, AUC variance: 0.018
+Candidate Filter: Chi2, k: 250. Median AUC Score: 0.747, AUC variance: 0.01
+Candidate Filter: Chi2, k: 500. Median AUC Score: 0.72, AUC variance: 0.011
+Candidate Filter: Chi2, k: 750. Median AUC Score: 0.687, AUC variance: 0.02
+Candidate Filter: Chi2, k: 1000. Median AUC Score: 0.7, AUC variance: 0.019
+Candidate Filter: DecisionStump, k: 250. Median AUC Score: 0.722, AUC variance: 0.022
+Candidate Filter: DecisionStump, k: 500. Median AUC Score: 0.734, AUC variance: 0.019
+Candidate Filter: DecisionStump, k: 750. Median AUC Score: 0.714, AUC variance: 0.019
+Candidate Filter: DecisionStump, k: 1000. Median AUC Score: 0.697, AUC variance: 0.018
+Candidate Filter: LogOddsRatio, k: 250. Median AUC Score: 0.753, AUC variance: 0.01
+Candidate Filter: LogOddsRatio, k: 500. Median AUC Score: 0.757, AUC variance: 0.027
+Candidate Filter: LogOddsRatio, k: 750. Median AUC Score: 0.733, AUC variance: 0.02
+Candidate Filter: LogOddsRatio, k: 1000. Median AUC Score: 0.684, AUC variance: 0.018
+Candidate Filter: AsymmetricOptimalPrediction, k: 250. Median AUC Score: 0.685, AUC variance: 0.011
+Candidate Filter: AsymmetricOptimalPrediction, k: 500. Median AUC Score: 0.71, AUC variance: 0.023
+Candidate Filter: AsymmetricOptimalPrediction, k: 750. Median AUC Score: 0.688, AUC variance: 0.026
+Candidate Filter: AsymmetricOptimalPrediction, k: 1000. Median AUC Score: 0.71, AUC variance: 0.018
+Chosen strategy: LogOddsRatio_500. Average score 0.7572463768115942 and variance 0.026902103913550284
+AutoFilter InternalCV end. Selected filter strategy : LogOddsRatio with k = 500
+Applying filter LogOddsRatio with k: 500
+Fold 1. AUC score: 0.714
+Applying filter LogOddsRatio with k: 500
+Fold 2. AUC score: 0.641
+Applying filter LogOddsRatio with k: 500
+Fold 3. AUC score: 0.575
+Applying filter LogOddsRatio with k: 500
+Fold 4. AUC score: 0.757
+Applying filter LogOddsRatio with k: 500
+Fold 5. AUC score: 0.724
+Applying filter LogOddsRatio with k: 500
+Fold 6. AUC score: 0.707
+Applying filter LogOddsRatio with k: 500
+Fold 7. AUC score: 0.873
+Applying filter LogOddsRatio with k: 500
+Fold 8. AUC score: 0.896
+Applying filter LogOddsRatio with k: 500
+Fold 9. AUC score: 0.849
+Applying filter LogOddsRatio with k: 500
+Fold 10. AUC score: 0.9
+Median AUC: 0.741
+Running InternalCV for AutoFilter. Method: InfoGain k: 250
+Running InternalCV for AutoFilter. Method: InfoGain k: 500
+Running InternalCV for AutoFilter. Method: InfoGain k: 750
+Running InternalCV for AutoFilter. Method: InfoGain k: 1000
+Running InternalCV for AutoFilter. Method: Chi2 k: 250
+Running InternalCV for AutoFilter. Method: Chi2 k: 500
+Running InternalCV for AutoFilter. Method: Chi2 k: 750
+Running InternalCV for AutoFilter. Method: Chi2 k: 1000
+Running InternalCV for AutoFilter. Method: DecisionStump k: 250
+Running InternalCV for AutoFilter. Method: DecisionStump k: 500
+Running InternalCV for AutoFilter. Method: DecisionStump k: 750
+Running InternalCV for AutoFilter. Method: DecisionStump k: 1000
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 250
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 500
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 750
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 1000
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 250
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 500
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 750
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 1000
+Candidate Filter: InfoGain, k: 250. Median AUC Score: 0.671, AUC variance: 0.003
+Candidate Filter: InfoGain, k: 500. Median AUC Score: 0.68, AUC variance: 0.005
+Candidate Filter: InfoGain, k: 750. Median AUC Score: 0.713, AUC variance: 0.003
+Candidate Filter: InfoGain, k: 1000. Median AUC Score: 0.656, AUC variance: 0.005
+Candidate Filter: Chi2, k: 250. Median AUC Score: 0.696, AUC variance: 0.002
+Candidate Filter: Chi2, k: 500. Median AUC Score: 0.691, AUC variance: 0.003
+Candidate Filter: Chi2, k: 750. Median AUC Score: 0.684, AUC variance: 0.002
+Candidate Filter: Chi2, k: 1000. Median AUC Score: 0.692, AUC variance: 0.004
+Candidate Filter: DecisionStump, k: 250. Median AUC Score: 0.658, AUC variance: 0.003
+Candidate Filter: DecisionStump, k: 500. Median AUC Score: 0.649, AUC variance: 0.004
+Candidate Filter: DecisionStump, k: 750. Median AUC Score: 0.664, AUC variance: 0.005
+Candidate Filter: DecisionStump, k: 1000. Median AUC Score: 0.686, AUC variance: 0.004
+Candidate Filter: LogOddsRatio, k: 250. Median AUC Score: 0.719, AUC variance: 0.002
+Candidate Filter: LogOddsRatio, k: 500. Median AUC Score: 0.722, AUC variance: 0.003
+Candidate Filter: LogOddsRatio, k: 750. Median AUC Score: 0.735, AUC variance: 0.002
+Candidate Filter: LogOddsRatio, k: 1000. Median AUC Score: 0.726, AUC variance: 0.003
+Candidate Filter: AsymmetricOptimalPrediction, k: 250. Median AUC Score: 0.687, AUC variance: 0.003
+Candidate Filter: AsymmetricOptimalPrediction, k: 500. Median AUC Score: 0.72, AUC variance: 0.003
+Candidate Filter: AsymmetricOptimalPrediction, k: 750. Median AUC Score: 0.728, AUC variance: 0.004
+Candidate Filter: AsymmetricOptimalPrediction, k: 1000. Median AUC Score: 0.707, AUC variance: 0.002
+Chosen strategy: LogOddsRatio_750. Average score 0.73497150997151 and variance 0.002475869420753718
+AutoFilter InternalCV end. Selected filter strategy : LogOddsRatio with k = 750
+Applying filter LogOddsRatio with k: 750
+Fold 1. AUC score: 0.874
+Applying filter LogOddsRatio with k: 750
+Fold 2. AUC score: 0.828
+Applying filter LogOddsRatio with k: 750
+Fold 3. AUC score: 0.585
+Applying filter LogOddsRatio with k: 750
+Fold 4. AUC score: 0.714
+Applying filter LogOddsRatio with k: 750
+Fold 5. AUC score: 0.587
+Applying filter LogOddsRatio with k: 750
+Fold 6. AUC score: 0.7
+Applying filter LogOddsRatio with k: 750
+Fold 7. AUC score: 0.912
+Applying filter LogOddsRatio with k: 750
+Fold 8. AUC score: 0.659
+Applying filter LogOddsRatio with k: 750
+Fold 9. AUC score: 0.652
+Applying filter LogOddsRatio with k: 750
+Fold 10. AUC score: 0.769
+Median AUC: 0.707
+Running InternalCV for AutoFilter. Method: InfoGain k: 25
+Running InternalCV for AutoFilter. Method: InfoGain k: 50
+Running InternalCV for AutoFilter. Method: InfoGain k: 75
+Running InternalCV for AutoFilter. Method: InfoGain k: 99
+Running InternalCV for AutoFilter. Method: Chi2 k: 25
+Running InternalCV for AutoFilter. Method: Chi2 k: 50
+Running InternalCV for AutoFilter. Method: Chi2 k: 75
+Running InternalCV for AutoFilter. Method: Chi2 k: 99
+Running InternalCV for AutoFilter. Method: DecisionStump k: 25
+Running InternalCV for AutoFilter. Method: DecisionStump k: 50
+Running InternalCV for AutoFilter. Method: DecisionStump k: 75
+Running InternalCV for AutoFilter. Method: DecisionStump k: 99
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 25
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 50
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 75
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 99
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 25
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 50
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 75
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 99
+Candidate Filter: InfoGain, k: 25. Median AUC Score: 0.63, AUC variance: 0.002
+Candidate Filter: InfoGain, k: 50. Median AUC Score: 0.633, AUC variance: 0.003
+Candidate Filter: InfoGain, k: 75. Median AUC Score: 0.621, AUC variance: 0.006
+Candidate Filter: InfoGain, k: 99. Median AUC Score: 0.644, AUC variance: 0.003
+Candidate Filter: Chi2, k: 25. Median AUC Score: 0.646, AUC variance: 0.004
+Candidate Filter: Chi2, k: 50. Median AUC Score: 0.64, AUC variance: 0.003
+Candidate Filter: Chi2, k: 75. Median AUC Score: 0.675, AUC variance: 0.002
+Candidate Filter: Chi2, k: 99. Median AUC Score: 0.644, AUC variance: 0.003
+Candidate Filter: DecisionStump, k: 25. Median AUC Score: 0.597, AUC variance: 0.003
+Candidate Filter: DecisionStump, k: 50. Median AUC Score: 0.647, AUC variance: 0.002
+Candidate Filter: DecisionStump, k: 75. Median AUC Score: 0.642, AUC variance: 0.003
+Candidate Filter: DecisionStump, k: 99. Median AUC Score: 0.644, AUC variance: 0.003
+Candidate Filter: LogOddsRatio, k: 25. Median AUC Score: 0.639, AUC variance: 0.002
+Candidate Filter: LogOddsRatio, k: 50. Median AUC Score: 0.642, AUC variance: 0.006
+Candidate Filter: LogOddsRatio, k: 75. Median AUC Score: 0.657, AUC variance: 0.002
+Candidate Filter: LogOddsRatio, k: 99. Median AUC Score: 0.641, AUC variance: 0.003
+Candidate Filter: AsymmetricOptimalPrediction, k: 25. Median AUC Score: 0.649, AUC variance: 0.004
+Candidate Filter: AsymmetricOptimalPrediction, k: 50. Median AUC Score: 0.648, AUC variance: 0.005
+Candidate Filter: AsymmetricOptimalPrediction, k: 75. Median AUC Score: 0.615, AUC variance: 0.004
+Candidate Filter: AsymmetricOptimalPrediction, k: 99. Median AUC Score: 0.642, AUC variance: 0.003
+Chosen strategy: Chi2_75. Average score 0.6751126126126126 and variance 0.002003594365039218
+AutoFilter InternalCV end. Selected filter strategy : Chi2 with k = 75
+Applying filter Chi2 with k: 75
+Fold 1. AUC score: 0.847
+Applying filter Chi2 with k: 75
+Fold 2. AUC score: 0.825
+Applying filter Chi2 with k: 75
+Fold 3. AUC score: 0.588
+Applying filter Chi2 with k: 75
+Fold 4. AUC score: 0.656
+Applying filter Chi2 with k: 75
+Fold 5. AUC score: 0.705
+Applying filter Chi2 with k: 75
+Fold 6. AUC score: 0.73
+Applying filter Chi2 with k: 75
+Fold 7. AUC score: 0.688
+Applying filter Chi2 with k: 75
+Fold 8. AUC score: 0.598
+Applying filter Chi2 with k: 75
+Fold 9. AUC score: 0.588
+Applying filter Chi2 with k: 75
+Fold 10. AUC score: 0.693
+Median AUC: 0.69
+Running InternalCV for AutoFilter. Method: InfoGain k: 250
+Running InternalCV for AutoFilter. Method: InfoGain k: 500
+Running InternalCV for AutoFilter. Method: InfoGain k: 750
+Running InternalCV for AutoFilter. Method: InfoGain k: 1000
+Running InternalCV for AutoFilter. Method: Chi2 k: 250
+Running InternalCV for AutoFilter. Method: Chi2 k: 500
+Running InternalCV for AutoFilter. Method: Chi2 k: 750
+Running InternalCV for AutoFilter. Method: Chi2 k: 1000
+Running InternalCV for AutoFilter. Method: DecisionStump k: 250
+Running InternalCV for AutoFilter. Method: DecisionStump k: 500
+Running InternalCV for AutoFilter. Method: DecisionStump k: 750
+Running InternalCV for AutoFilter. Method: DecisionStump k: 1000
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 250
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 500
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 750
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 1000
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 250
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 500
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 750
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 1000
+Candidate Filter: InfoGain, k: 250. Median AUC Score: 0.731, AUC variance: 0.003
+Candidate Filter: InfoGain, k: 500. Median AUC Score: 0.719, AUC variance: 0.001
+Candidate Filter: InfoGain, k: 750. Median AUC Score: 0.695, AUC variance: 0.002
+Candidate Filter: InfoGain, k: 1000. Median AUC Score: 0.725, AUC variance: 0.002
+Candidate Filter: Chi2, k: 250. Median AUC Score: 0.681, AUC variance: 0.003
+Candidate Filter: Chi2, k: 500. Median AUC Score: 0.696, AUC variance: 0.001
+Candidate Filter: Chi2, k: 750. Median AUC Score: 0.707, AUC variance: 0.001
+Candidate Filter: Chi2, k: 1000. Median AUC Score: 0.712, AUC variance: 0.002
+Candidate Filter: DecisionStump, k: 250. Median AUC Score: 0.74, AUC variance: 0.002
+Candidate Filter: DecisionStump, k: 500. Median AUC Score: 0.736, AUC variance: 0.002
+Candidate Filter: DecisionStump, k: 750. Median AUC Score: 0.739, AUC variance: 0.001
+Candidate Filter: DecisionStump, k: 1000. Median AUC Score: 0.73, AUC variance: 0.001
+Candidate Filter: LogOddsRatio, k: 250. Median AUC Score: 0.634, AUC variance: 0.005
+Candidate Filter: LogOddsRatio, k: 500. Median AUC Score: 0.65, AUC variance: 0.004
+Candidate Filter: LogOddsRatio, k: 750. Median AUC Score: 0.655, AUC variance: 0.004
+Candidate Filter: LogOddsRatio, k: 1000. Median AUC Score: 0.654, AUC variance: 0.007
+Candidate Filter: AsymmetricOptimalPrediction, k: 250. Median AUC Score: 0.686, AUC variance: 0.004
+Candidate Filter: AsymmetricOptimalPrediction, k: 500. Median AUC Score: 0.69, AUC variance: 0.003
+Candidate Filter: AsymmetricOptimalPrediction, k: 750. Median AUC Score: 0.669, AUC variance: 0.004
+Candidate Filter: AsymmetricOptimalPrediction, k: 1000. Median AUC Score: 0.682, AUC variance: 0.004
+Chosen strategy: DecisionStump_250. Average score 0.7399434318038969 and variance 0.0023172756624053486
+AutoFilter InternalCV end. Selected filter strategy : DecisionStump with k = 250
+Applying filter DecisionStump with k: 250
+Fold 1. AUC score: 0.867
+Applying filter DecisionStump with k: 250
+Fold 2. AUC score: 0.903
+Applying filter DecisionStump with k: 250
+Fold 3. AUC score: 0.554
+Applying filter DecisionStump with k: 250
+Fold 4. AUC score: 0.635
+Applying filter DecisionStump with k: 250
+Fold 5. AUC score: 0.696
+Applying filter DecisionStump with k: 250
+Fold 6. AUC score: 0.752
+Applying filter DecisionStump with k: 250
+Fold 7. AUC score: 0.83
+Applying filter DecisionStump with k: 250
+Fold 8. AUC score: 0.713
+Applying filter DecisionStump with k: 250
+Fold 9. AUC score: 0.62
+Applying filter DecisionStump with k: 250
+Fold 10. AUC score: 0.772
+Median AUC: 0.732
+Running InternalCV for AutoFilter. Method: InfoGain k: 250
+Running InternalCV for AutoFilter. Method: InfoGain k: 500
+Running InternalCV for AutoFilter. Method: InfoGain k: 750
+Running InternalCV for AutoFilter. Method: InfoGain k: 1000
+***********************************************************************************************************************
+Running InternalCV for AutoFilter. Method: InfoGain k: 100
+Running InternalCV for AutoFilter. Method: InfoGain k: 200
+Running InternalCV for AutoFilter. Method: InfoGain k: 300
+Running InternalCV for AutoFilter. Method: InfoGain k: 400
+Running InternalCV for AutoFilter. Method: Chi2 k: 100
+Running InternalCV for AutoFilter. Method: Chi2 k: 200
+Running InternalCV for AutoFilter. Method: Chi2 k: 300
+Running InternalCV for AutoFilter. Method: Chi2 k: 400
+Running InternalCV for AutoFilter. Method: DecisionStump k: 100
+Running InternalCV for AutoFilter. Method: DecisionStump k: 200
+Running InternalCV for AutoFilter. Method: DecisionStump k: 300
+Running InternalCV for AutoFilter. Method: DecisionStump k: 400
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 100
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 200
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 300
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 400
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 100
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 200
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 300
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 400
+Candidate Filter: InfoGain, k: 100. Median AUC Score: 0.654, AUC variance: 0.003
+Candidate Filter: InfoGain, k: 200. Median AUC Score: 0.677, AUC variance: 0.004
+Candidate Filter: InfoGain, k: 300. Median AUC Score: 0.674, AUC variance: 0.002
+Candidate Filter: InfoGain, k: 400. Median AUC Score: 0.685, AUC variance: 0.003
+Candidate Filter: Chi2, k: 100. Median AUC Score: 0.628, AUC variance: 0.006
+Candidate Filter: Chi2, k: 200. Median AUC Score: 0.653, AUC variance: 0.004
+Candidate Filter: Chi2, k: 300. Median AUC Score: 0.699, AUC variance: 0.004
+Candidate Filter: Chi2, k: 400. Median AUC Score: 0.689, AUC variance: 0.003
+Candidate Filter: DecisionStump, k: 100. Median AUC Score: 0.669, AUC variance: 0.004
+Candidate Filter: DecisionStump, k: 200. Median AUC Score: 0.683, AUC variance: 0.003
+Candidate Filter: DecisionStump, k: 300. Median AUC Score: 0.671, AUC variance: 0.002
+Candidate Filter: DecisionStump, k: 400. Median AUC Score: 0.671, AUC variance: 0.002
+Candidate Filter: LogOddsRatio, k: 100. Median AUC Score: 0.646, AUC variance: 0.005
+Candidate Filter: LogOddsRatio, k: 200. Median AUC Score: 0.651, AUC variance: 0.004
+Candidate Filter: LogOddsRatio, k: 300. Median AUC Score: 0.667, AUC variance: 0.006
+Candidate Filter: LogOddsRatio, k: 400. Median AUC Score: 0.682, AUC variance: 0.004
+Candidate Filter: AsymmetricOptimalPrediction, k: 100. Median AUC Score: 0.656, AUC variance: 0.004
+Candidate Filter: AsymmetricOptimalPrediction, k: 200. Median AUC Score: 0.679, AUC variance: 0.005
+Candidate Filter: AsymmetricOptimalPrediction, k: 300. Median AUC Score: 0.64, AUC variance: 0.004
+Candidate Filter: AsymmetricOptimalPrediction, k: 400. Median AUC Score: 0.662, AUC variance: 0.003
+Chosen strategy: Chi2_300. Average score 0.6989221364221365 and variance 0.00383214902752164
+AutoFilter InternalCV end. Selected filter strategy : Chi2 with k = 300
+Applying filter Chi2 with k: 300
+Fold 1. AUC score: 0.846
+Applying filter Chi2 with k: 300
+Fold 2. AUC score: 0.891
+Applying filter Chi2 with k: 300
+Fold 3. AUC score: 0.583
+Applying filter Chi2 with k: 300
+Fold 4. AUC score: 0.572
+Applying filter Chi2 with k: 300
+Fold 5. AUC score: 0.614
+Applying filter Chi2 with k: 300
+Fold 6. AUC score: 0.773
+Applying filter Chi2 with k: 300
+Fold 7. AUC score: 0.783
+Applying filter Chi2 with k: 300
+Fold 8. AUC score: 0.69
+Applying filter Chi2 with k: 300
+Fold 9. AUC score: 0.633
+Applying filter Chi2 with k: 300
+Fold 10. AUC score: 0.637
+Median AUC: 0.664
+Running InternalCV for AutoFilter. Method: InfoGain k: 250
+Running InternalCV for AutoFilter. Method: InfoGain k: 500
+Running InternalCV for AutoFilter. Method: InfoGain k: 750
+Running InternalCV for AutoFilter. Method: InfoGain k: 1000
+Running InternalCV for AutoFilter. Method: Chi2 k: 250
+Running InternalCV for AutoFilter. Method: Chi2 k: 500
+Running InternalCV for AutoFilter. Method: Chi2 k: 750
+Running InternalCV for AutoFilter. Method: Chi2 k: 1000
+Running InternalCV for AutoFilter. Method: DecisionStump k: 250
+Running InternalCV for AutoFilter. Method: DecisionStump k: 500
+Running InternalCV for AutoFilter. Method: DecisionStump k: 750
+Running InternalCV for AutoFilter. Method: DecisionStump k: 1000
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 250
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 500
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 750
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 1000
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 250
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 500
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 750
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 1000
+Candidate Filter: InfoGain, k: 250. Median AUC Score: 0.701, AUC variance: 0.002
+Candidate Filter: InfoGain, k: 500. Median AUC Score: 0.7, AUC variance: 0.002
+Candidate Filter: InfoGain, k: 750. Median AUC Score: 0.676, AUC variance: 0.002
+Candidate Filter: InfoGain, k: 1000. Median AUC Score: 0.696, AUC variance: 0.001
+Candidate Filter: Chi2, k: 250. Median AUC Score: 0.633, AUC variance: 0.005
+Candidate Filter: Chi2, k: 500. Median AUC Score: 0.661, AUC variance: 0.001
+Candidate Filter: Chi2, k: 750. Median AUC Score: 0.697, AUC variance: 0.002
+Candidate Filter: Chi2, k: 1000. Median AUC Score: 0.708, AUC variance: 0.002
+Candidate Filter: DecisionStump, k: 250. Median AUC Score: 0.67, AUC variance: 0.004
+Candidate Filter: DecisionStump, k: 500. Median AUC Score: 0.686, AUC variance: 0.002
+Candidate Filter: DecisionStump, k: 750. Median AUC Score: 0.698, AUC variance: 0.001
+Candidate Filter: DecisionStump, k: 1000. Median AUC Score: 0.691, AUC variance: 0.001
+Candidate Filter: LogOddsRatio, k: 250. Median AUC Score: 0.607, AUC variance: 0.007
+Candidate Filter: LogOddsRatio, k: 500. Median AUC Score: 0.69, AUC variance: 0.003
+Candidate Filter: LogOddsRatio, k: 750. Median AUC Score: 0.682, AUC variance: 0.004
+Candidate Filter: LogOddsRatio, k: 1000. Median AUC Score: 0.7, AUC variance: 0.002
+Candidate Filter: AsymmetricOptimalPrediction, k: 250. Median AUC Score: 0.638, AUC variance: 0.005
+Candidate Filter: AsymmetricOptimalPrediction, k: 500. Median AUC Score: 0.666, AUC variance: 0.004
+Candidate Filter: AsymmetricOptimalPrediction, k: 750. Median AUC Score: 0.663, AUC variance: 0.004
+Candidate Filter: AsymmetricOptimalPrediction, k: 1000. Median AUC Score: 0.628, AUC variance: 0.004
+Chosen strategy: Chi2_1000. Average score 0.7076524198617222 and variance 0.0017666864811772295
+AutoFilter InternalCV end. Selected filter strategy : Chi2 with k = 1000
+Applying filter Chi2 with k: 1000
+Fold 1. AUC score: 0.836
+Applying filter Chi2 with k: 1000
+Fold 2. AUC score: 0.811
+Applying filter Chi2 with k: 1000
+Fold 3. AUC score: 0.537
+Applying filter Chi2 with k: 1000
+Fold 4. AUC score: 0.656
+Applying filter Chi2 with k: 1000
+Fold 5. AUC score: 0.719
+Applying filter Chi2 with k: 1000
+Fold 6. AUC score: 0.634
+Applying filter Chi2 with k: 1000
+Fold 7. AUC score: 0.778
+Applying filter Chi2 with k: 1000
+Fold 8. AUC score: 0.675
+Applying filter Chi2 with k: 1000
+Fold 9. AUC score: 0.618
+Applying filter Chi2 with k: 1000
+Fold 10. AUC score: 0.616
+Median AUC: 0.666
+Opening the file: Drosophila datasets (validation experiment)\Drosophila Protein Interactors .tsv
+Running InternalCV for AutoFilter. Method: InfoGain k: 25
+Running InternalCV for AutoFilter. Method: InfoGain k: 50
+Running InternalCV for AutoFilter. Method: InfoGain k: 75
+Running InternalCV for AutoFilter. Method: InfoGain k: 100
+Running InternalCV for AutoFilter. Method: Chi2 k: 25
+Running InternalCV for AutoFilter. Method: Chi2 k: 50
+Running InternalCV for AutoFilter. Method: Chi2 k: 75
+Running InternalCV for AutoFilter. Method: Chi2 k: 100
+Running InternalCV for AutoFilter. Method: DecisionStump k: 25
+Running InternalCV for AutoFilter. Method: DecisionStump k: 50
+Running InternalCV for AutoFilter. Method: DecisionStump k: 75
+Running InternalCV for AutoFilter. Method: DecisionStump k: 100
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 25
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 50
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 75
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 100
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 25
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 50
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 75
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 100
+Candidate Filter: InfoGain, k: 25. Median AUC Score: 0.656, AUC variance: 0.033
+Candidate Filter: InfoGain, k: 50. Median AUC Score: 0.75, AUC variance: 0.012
+Candidate Filter: InfoGain, k: 75. Median AUC Score: 0.75, AUC variance: 0.014
+Candidate Filter: InfoGain, k: 100. Median AUC Score: 0.75, AUC variance: 0.012
+Candidate Filter: Chi2, k: 25. Median AUC Score: 0.812, AUC variance: 0.008
+Candidate Filter: Chi2, k: 50. Median AUC Score: 0.719, AUC variance: 0.018
+Candidate Filter: Chi2, k: 75. Median AUC Score: 0.719, AUC variance: 0.014
+Candidate Filter: Chi2, k: 100. Median AUC Score: 0.719, AUC variance: 0.012
+Candidate Filter: DecisionStump, k: 25. Median AUC Score: 0.812, AUC variance: 0.009
+Candidate Filter: DecisionStump, k: 50. Median AUC Score: 0.781, AUC variance: 0.018
+Candidate Filter: DecisionStump, k: 75. Median AUC Score: 0.719, AUC variance: 0.012
+Candidate Filter: DecisionStump, k: 100. Median AUC Score: 0.719, AUC variance: 0.012
+Candidate Filter: LogOddsRatio, k: 25. Median AUC Score: 0.812, AUC variance: 0.008
+Candidate Filter: LogOddsRatio, k: 50. Median AUC Score: 0.781, AUC variance: 0.018
+Candidate Filter: LogOddsRatio, k: 75. Median AUC Score: 0.719, AUC variance: 0.014
+Candidate Filter: LogOddsRatio, k: 100. Median AUC Score: 0.719, AUC variance: 0.012
+Candidate Filter: AsymmetricOptimalPrediction, k: 25. Median AUC Score: 0.812, AUC variance: 0.008
+Candidate Filter: AsymmetricOptimalPrediction, k: 50. Median AUC Score: 0.75, AUC variance: 0.015
+Candidate Filter: AsymmetricOptimalPrediction, k: 75. Median AUC Score: 0.719, AUC variance: 0.014
+Candidate Filter: AsymmetricOptimalPrediction, k: 100. Median AUC Score: 0.719, AUC variance: 0.012
+Chosen strategy: Chi2_25. Average score 0.8125 and variance 0.0078125
+AutoFilter InternalCV end. Selected filter strategy : Chi2 with k = 25
+Applying filter Chi2 with k: 25
+Fold 1. AUC score: 0.75
+Applying filter Chi2 with k: 25
+Fold 2. AUC score: 0.5
+Applying filter Chi2 with k: 25
+Fold 3. AUC score: 1.0
+Applying filter Chi2 with k: 25
+Fold 4. AUC score: 0.667
+Applying filter Chi2 with k: 25
+Fold 5. AUC score: 0.667
+Applying filter Chi2 with k: 25
+Fold 6. AUC score: 1.0
+Applying filter Chi2 with k: 25
+Fold 7. AUC score: 0.75
+Applying filter Chi2 with k: 25
+Fold 8. AUC score: 1.0
+Applying filter Chi2 with k: 25
+Fold 9. AUC score: 0.875
+Applying filter Chi2 with k: 25
+Fold 10. AUC score: 1.0
+Median AUC: 0.812
+Opening the file: Drosophila datasets (validation experiment)\Drosophila GO Terms.tsv
+Running InternalCV for AutoFilter. Method: InfoGain k: 250
+Running InternalCV for AutoFilter. Method: InfoGain k: 500
+Running InternalCV for AutoFilter. Method: InfoGain k: 750
+Running InternalCV for AutoFilter. Method: InfoGain k: 1000
+Running InternalCV for AutoFilter. Method: Chi2 k: 250
+Running InternalCV for AutoFilter. Method: Chi2 k: 500
+Running InternalCV for AutoFilter. Method: Chi2 k: 750
+Running InternalCV for AutoFilter. Method: Chi2 k: 1000
+Running InternalCV for AutoFilter. Method: DecisionStump k: 250
+Running InternalCV for AutoFilter. Method: DecisionStump k: 500
+Running InternalCV for AutoFilter. Method: DecisionStump k: 750
+Running InternalCV for AutoFilter. Method: DecisionStump k: 1000
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 250
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 500
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 750
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 1000
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 250
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 500
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 750
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 1000
+Candidate Filter: InfoGain, k: 250. Median AUC Score: 0.562, AUC variance: 0.03
+Candidate Filter: InfoGain, k: 500. Median AUC Score: 0.5, AUC variance: 0.038
+Candidate Filter: InfoGain, k: 750. Median AUC Score: 0.5, AUC variance: 0.045
+Candidate Filter: InfoGain, k: 1000. Median AUC Score: 0.438, AUC variance: 0.063
+Candidate Filter: Chi2, k: 250. Median AUC Score: 0.594, AUC variance: 0.072
+Candidate Filter: Chi2, k: 500. Median AUC Score: 0.562, AUC variance: 0.039
+Candidate Filter: Chi2, k: 750. Median AUC Score: 0.375, AUC variance: 0.067
+Candidate Filter: Chi2, k: 1000. Median AUC Score: 0.562, AUC variance: 0.037
+Candidate Filter: DecisionStump, k: 250. Median AUC Score: 0.5, AUC variance: 0.026
+Candidate Filter: DecisionStump, k: 500. Median AUC Score: 0.469, AUC variance: 0.038
+Candidate Filter: DecisionStump, k: 750. Median AUC Score: 0.562, AUC variance: 0.033
+Candidate Filter: DecisionStump, k: 1000. Median AUC Score: 0.438, AUC variance: 0.058
+Candidate Filter: LogOddsRatio, k: 250. Median AUC Score: 0.5, AUC variance: 0.045
+Candidate Filter: LogOddsRatio, k: 500. Median AUC Score: 0.5, AUC variance: 0.056
+Candidate Filter: LogOddsRatio, k: 750. Median AUC Score: 0.438, AUC variance: 0.047
+Candidate Filter: LogOddsRatio, k: 1000. Median AUC Score: 0.375, AUC variance: 0.058
+Candidate Filter: AsymmetricOptimalPrediction, k: 250. Median AUC Score: 0.531, AUC variance: 0.043
+Candidate Filter: AsymmetricOptimalPrediction, k: 500. Median AUC Score: 0.5, AUC variance: 0.042
+Candidate Filter: AsymmetricOptimalPrediction, k: 750. Median AUC Score: 0.438, AUC variance: 0.062
+Candidate Filter: AsymmetricOptimalPrediction, k: 1000. Median AUC Score: 0.375, AUC variance: 0.07
+Chosen strategy: Chi2_250. Average score 0.59375 and variance 0.071875
+AutoFilter InternalCV end. Selected filter strategy : Chi2 with k = 250
+Applying filter Chi2 with k: 250
+Fold 1. AUC score: 0.0
+Applying filter Chi2 with k: 250
+Fold 2. AUC score: 0.833
+Applying filter Chi2 with k: 250
+Fold 3. AUC score: 1.0
+Applying filter Chi2 with k: 250
+Fold 4. AUC score: 0.333
+Applying filter Chi2 with k: 250
+Fold 5. AUC score: 0.5
+Applying filter Chi2 with k: 250
+Fold 6. AUC score: 0.5
+Applying filter Chi2 with k: 250
+Fold 7. AUC score: 0.25
+Applying filter Chi2 with k: 250
+Fold 8. AUC score: 0.25
+Applying filter Chi2 with k: 250
+Fold 9. AUC score: 1.0
+Applying filter Chi2 with k: 250
+Fold 10. AUC score: 1.0
+Median AUC: 0.5

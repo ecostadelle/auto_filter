@@ -1,0 +1,2070 @@
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans Protein Interactors dataset_v1.tsv, for filter: None
+Fold 1. AUC score: 0.875
+Fold 2. AUC score: 0.831
+Fold 3. AUC score: 0.597
+Fold 4. AUC score: 0.754
+Fold 5. AUC score: 0.554
+Fold 6. AUC score: 0.756
+Fold 7. AUC score: 0.878
+Fold 8. AUC score: 0.652
+Fold 9. AUC score: 0.598
+Fold 10. AUC score: 0.682
+Median AUC: 0.718
+total runtime: 89s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans GOTerms dataset_v1.tsv, for filter: None
+Fold 1. AUC score: 0.656
+Fold 2. AUC score: 0.763
+Fold 3. AUC score: 0.695
+Fold 4. AUC score: 0.741
+Fold 5. AUC score: 0.857
+Fold 6. AUC score: 0.778
+Fold 7. AUC score: 0.858
+Fold 8. AUC score: 0.885
+Fold 9. AUC score: 0.936
+Fold 10. AUC score: 0.833
+Median AUC: 0.806
+total runtime: 116s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans Phenotypes dataset_v1.tsv, for filter: None
+Fold 1. AUC score: 0.624
+Fold 2. AUC score: 0.677
+Fold 3. AUC score: 0.633
+Fold 4. AUC score: 0.662
+Fold 5. AUC score: 0.769
+Fold 6. AUC score: 0.654
+Fold 7. AUC score: 0.852
+Fold 8. AUC score: 0.869
+Fold 9. AUC score: 0.899
+Fold 10. AUC score: 0.875
+Median AUC: 0.723
+total runtime: 25s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans GenAge dataset_v1.tsv, for filter: None
+Fold 1. AUC score: 0.679
+Fold 2. AUC score: 0.645
+Fold 3. AUC score: 0.612
+Fold 4. AUC score: 0.656
+Fold 5. AUC score: 0.743
+Fold 6. AUC score: 0.783
+Fold 7. AUC score: 0.759
+Fold 8. AUC score: 0.75
+Fold 9. AUC score: 0.828
+Fold 10. AUC score: 0.833
+Median AUC: 0.746
+total runtime: 17s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans Protein Interactors dataset_v2.tsv, for filter: None
+Fold 1. AUC score: 0.86
+Fold 2. AUC score: 0.874
+Fold 3. AUC score: 0.615
+Fold 4. AUC score: 0.633
+Fold 5. AUC score: 0.651
+Fold 6. AUC score: 0.734
+Fold 7. AUC score: 0.788
+Fold 8. AUC score: 0.714
+Fold 9. AUC score: 0.712
+Fold 10. AUC score: 0.704
+Median AUC: 0.713
+total runtime: 108s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans GOTerms dataset_v2.tsv, for filter: None
+Fold 1. AUC score: 0.86
+Fold 2. AUC score: 0.936
+Fold 3. AUC score: 0.64
+Fold 4. AUC score: 0.636
+Fold 5. AUC score: 0.688
+Fold 6. AUC score: 0.795
+Fold 7. AUC score: 0.842
+Fold 8. AUC score: 0.73
+Fold 9. AUC score: 0.651
+Fold 10. AUC score: 0.742
+Median AUC: 0.736
+total runtime: 137s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans Phenotypes dataset_v2.tsv, for filter: None
+Fold 1. AUC score: 0.852
+Fold 2. AUC score: 0.896
+Fold 3. AUC score: 0.604
+Fold 4. AUC score: 0.64
+Fold 5. AUC score: 0.632
+Fold 6. AUC score: 0.753
+Fold 7. AUC score: 0.778
+Fold 8. AUC score: 0.683
+Fold 9. AUC score: 0.639
+Fold 10. AUC score: 0.635
+Median AUC: 0.662
+total runtime: 20s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans GenAge dataset_v2.tsv, for filter: None
+Fold 1. AUC score: 0.849
+Fold 2. AUC score: 0.857
+Fold 3. AUC score: 0.588
+Fold 4. AUC score: 0.508
+Fold 5. AUC score: 0.697
+Fold 6. AUC score: 0.726
+Fold 7. AUC score: 0.759
+Fold 8. AUC score: 0.617
+Fold 9. AUC score: 0.599
+Fold 10. AUC score: 0.67
+Median AUC: 0.684
+total runtime: 14s
+
+
+Opening the file: Drosophila datasets (validation experiment)\Drosophila Protein Interactors .tsv, for filter: None
+Fold 1. AUC score: 0.833
+Fold 2. AUC score: 0.667
+Fold 3. AUC score: 0.0
+Fold 4. AUC score: 0.833
+Fold 5. AUC score: 0.333
+Fold 6. AUC score: 0.25
+Fold 7. AUC score: 0.0
+Fold 8. AUC score: 1.0
+Fold 9. AUC score: 0.875
+Fold 10. AUC score: 0.75
+Median AUC: 0.708
+total runtime: 16s
+
+
+Opening the file: Drosophila datasets (validation experiment)\Drosophila GO Terms.tsv, for filter: None
+Fold 1. AUC score: 0.167
+Fold 2. AUC score: 1.0
+Fold 3. AUC score: 0.833
+Fold 4. AUC score: 0.0
+Fold 5. AUC score: 0.5
+Fold 6. AUC score: 0.5
+Fold 7. AUC score: 0.0
+Fold 8. AUC score: 0.75
+Fold 9. AUC score: 0.75
+Fold 10. AUC score: 1.0
+Median AUC: 0.625
+total runtime: 27s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans Protein Interactors dataset_v1.tsv, for filter: AutoFilter
+Running InternalCV for AutoFilter. Method: InfoGain k: 250
+Running InternalCV for AutoFilter. Method: InfoGain k: 500
+Running InternalCV for AutoFilter. Method: InfoGain k: 750
+Running InternalCV for AutoFilter. Method: InfoGain k: 1000
+Running InternalCV for AutoFilter. Method: Chi2 k: 250
+Running InternalCV for AutoFilter. Method: Chi2 k: 500
+Running InternalCV for AutoFilter. Method: Chi2 k: 750
+Running InternalCV for AutoFilter. Method: Chi2 k: 1000
+Running InternalCV for AutoFilter. Method: DecisionStump k: 250
+Running InternalCV for AutoFilter. Method: DecisionStump k: 500
+Running InternalCV for AutoFilter. Method: DecisionStump k: 750
+Running InternalCV for AutoFilter. Method: DecisionStump k: 1000
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 250
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 500
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 750
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 1000
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 250
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 500
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 750
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 1000
+Candidate Filter: InfoGain, k: 250. Median AUC Score: 0.682, AUC variance: 0.001
+Candidate Filter: InfoGain, k: 500. Median AUC Score: 0.71, AUC variance: 0.004
+Candidate Filter: InfoGain, k: 750. Median AUC Score: 0.683, AUC variance: 0.004
+Candidate Filter: InfoGain, k: 1000. Median AUC Score: 0.692, AUC variance: 0.003
+Candidate Filter: Chi2, k: 250. Median AUC Score: 0.696, AUC variance: 0.002
+Candidate Filter: Chi2, k: 500. Median AUC Score: 0.691, AUC variance: 0.003
+Candidate Filter: Chi2, k: 750. Median AUC Score: 0.684, AUC variance: 0.002
+Candidate Filter: Chi2, k: 1000. Median AUC Score: 0.692, AUC variance: 0.004
+Candidate Filter: DecisionStump, k: 250. Median AUC Score: 0.658, AUC variance: 0.003
+Candidate Filter: DecisionStump, k: 500. Median AUC Score: 0.649, AUC variance: 0.004
+Candidate Filter: DecisionStump, k: 750. Median AUC Score: 0.664, AUC variance: 0.005
+Candidate Filter: DecisionStump, k: 1000. Median AUC Score: 0.686, AUC variance: 0.004
+Candidate Filter: LogOddsRatio, k: 250. Median AUC Score: 0.719, AUC variance: 0.002
+Candidate Filter: LogOddsRatio, k: 500. Median AUC Score: 0.722, AUC variance: 0.003
+Candidate Filter: LogOddsRatio, k: 750. Median AUC Score: 0.735, AUC variance: 0.002
+Candidate Filter: LogOddsRatio, k: 1000. Median AUC Score: 0.726, AUC variance: 0.003
+Candidate Filter: AsymmetricOptimalPrediction, k: 250. Median AUC Score: 0.687, AUC variance: 0.003
+Candidate Filter: AsymmetricOptimalPrediction, k: 500. Median AUC Score: 0.72, AUC variance: 0.003
+Candidate Filter: AsymmetricOptimalPrediction, k: 750. Median AUC Score: 0.728, AUC variance: 0.004
+Candidate Filter: AsymmetricOptimalPrediction, k: 1000. Median AUC Score: 0.707, AUC variance: 0.002
+Chosen strategy: LogOddsRatio_750. Average score 0.73497150997151 and variance 0.002475869420753718
+AutoFilter InternalCV end. Selected filter strategy : LogOddsRatio with k = 750
+Applying filter LogOddsRatio with k: 750
+Fold 1. AUC score: 0.874
+Applying filter LogOddsRatio with k: 750
+Fold 2. AUC score: 0.828
+Applying filter LogOddsRatio with k: 750
+Fold 3. AUC score: 0.585
+Applying filter LogOddsRatio with k: 750
+Fold 4. AUC score: 0.714
+Applying filter LogOddsRatio with k: 750
+Fold 5. AUC score: 0.587
+Applying filter LogOddsRatio with k: 750
+Fold 6. AUC score: 0.7
+Applying filter LogOddsRatio with k: 750
+Fold 7. AUC score: 0.912
+Applying filter LogOddsRatio with k: 750
+Fold 8. AUC score: 0.659
+Applying filter LogOddsRatio with k: 750
+Fold 9. AUC score: 0.652
+Applying filter LogOddsRatio with k: 750
+Fold 10. AUC score: 0.769
+Median AUC: 0.707
+total runtime: 2347s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans GOTerms dataset_v1.tsv, for filter: AutoFilter
+Running InternalCV for AutoFilter. Method: InfoGain k: 250
+Running InternalCV for AutoFilter. Method: InfoGain k: 500
+Running InternalCV for AutoFilter. Method: InfoGain k: 750
+Running InternalCV for AutoFilter. Method: InfoGain k: 1000
+Running InternalCV for AutoFilter. Method: Chi2 k: 250
+Running InternalCV for AutoFilter. Method: Chi2 k: 500
+Running InternalCV for AutoFilter. Method: Chi2 k: 750
+Running InternalCV for AutoFilter. Method: Chi2 k: 1000
+Running InternalCV for AutoFilter. Method: DecisionStump k: 250
+Running InternalCV for AutoFilter. Method: DecisionStump k: 500
+Running InternalCV for AutoFilter. Method: DecisionStump k: 750
+Running InternalCV for AutoFilter. Method: DecisionStump k: 1000
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 250
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 500
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 750
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 1000
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 250
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 500
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 750
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 1000
+Candidate Filter: InfoGain, k: 250. Median AUC Score: 0.8, AUC variance: 0.006
+Candidate Filter: InfoGain, k: 500. Median AUC Score: 0.821, AUC variance: 0.009
+Candidate Filter: InfoGain, k: 750. Median AUC Score: 0.839, AUC variance: 0.01
+Candidate Filter: InfoGain, k: 1000. Median AUC Score: 0.823, AUC variance: 0.009
+Candidate Filter: Chi2, k: 250. Median AUC Score: 0.8, AUC variance: 0.009
+Candidate Filter: Chi2, k: 500. Median AUC Score: 0.81, AUC variance: 0.008
+Candidate Filter: Chi2, k: 750. Median AUC Score: 0.82, AUC variance: 0.008
+Candidate Filter: Chi2, k: 1000. Median AUC Score: 0.83, AUC variance: 0.007
+Candidate Filter: DecisionStump, k: 250. Median AUC Score: 0.808, AUC variance: 0.006
+Candidate Filter: DecisionStump, k: 500. Median AUC Score: 0.811, AUC variance: 0.006
+Candidate Filter: DecisionStump, k: 750. Median AUC Score: 0.82, AUC variance: 0.008
+Candidate Filter: DecisionStump, k: 1000. Median AUC Score: 0.826, AUC variance: 0.007
+Candidate Filter: LogOddsRatio, k: 250. Median AUC Score: 0.77, AUC variance: 0.008
+Candidate Filter: LogOddsRatio, k: 500. Median AUC Score: 0.757, AUC variance: 0.006
+Candidate Filter: LogOddsRatio, k: 750. Median AUC Score: 0.788, AUC variance: 0.005
+Candidate Filter: LogOddsRatio, k: 1000. Median AUC Score: 0.805, AUC variance: 0.008
+Candidate Filter: AsymmetricOptimalPrediction, k: 250. Median AUC Score: 0.754, AUC variance: 0.007
+Candidate Filter: AsymmetricOptimalPrediction, k: 500. Median AUC Score: 0.753, AUC variance: 0.006
+Candidate Filter: AsymmetricOptimalPrediction, k: 750. Median AUC Score: 0.791, AUC variance: 0.006
+Candidate Filter: AsymmetricOptimalPrediction, k: 1000. Median AUC Score: 0.796, AUC variance: 0.007
+Chosen strategy: InfoGain_750. Average score 0.8390313390313391 and variance 0.009536989945879547
+AutoFilter InternalCV end. Selected filter strategy : InfoGain with k = 750
+Applying filter InfoGain with k: 750
+Fold 1. AUC score: 0.674
+Applying filter InfoGain with k: 750
+Fold 2. AUC score: 0.673
+Applying filter InfoGain with k: 750
+Fold 3. AUC score: 0.647
+Applying filter InfoGain with k: 750
+Fold 4. AUC score: 0.769
+Applying filter InfoGain with k: 750
+Fold 5. AUC score: 0.849
+Applying filter InfoGain with k: 750
+Fold 6. AUC score: 0.757
+Applying filter InfoGain with k: 750
+Fold 7. AUC score: 0.847
+Applying filter InfoGain with k: 750
+Fold 8. AUC score: 0.858
+Applying filter InfoGain with k: 750
+Fold 9. AUC score: 0.939
+Applying filter InfoGain with k: 750
+Fold 10. AUC score: 0.838
+Median AUC: 0.804
+total runtime: 3471s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans Phenotypes dataset_v1.tsv, for filter: AutoFilter
+Running InternalCV for AutoFilter. Method: InfoGain k: 250
+Running InternalCV for AutoFilter. Method: InfoGain k: 500
+Running InternalCV for AutoFilter. Method: InfoGain k: 750
+Running InternalCV for AutoFilter. Method: InfoGain k: 1000
+Running InternalCV for AutoFilter. Method: Chi2 k: 250
+Running InternalCV for AutoFilter. Method: Chi2 k: 500
+Running InternalCV for AutoFilter. Method: Chi2 k: 750
+Running InternalCV for AutoFilter. Method: Chi2 k: 1000
+Running InternalCV for AutoFilter. Method: DecisionStump k: 250
+Running InternalCV for AutoFilter. Method: DecisionStump k: 500
+Running InternalCV for AutoFilter. Method: DecisionStump k: 750
+Running InternalCV for AutoFilter. Method: DecisionStump k: 1000
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 250
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 500
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 750
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 1000
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 250
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 500
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 750
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 1000
+Candidate Filter: InfoGain, k: 250. Median AUC Score: 0.658, AUC variance: 0.032
+Candidate Filter: InfoGain, k: 500. Median AUC Score: 0.7, AUC variance: 0.02
+Candidate Filter: InfoGain, k: 750. Median AUC Score: 0.694, AUC variance: 0.021
+Candidate Filter: InfoGain, k: 1000. Median AUC Score: 0.697, AUC variance: 0.017
+Candidate Filter: Chi2, k: 250. Median AUC Score: 0.747, AUC variance: 0.01
+Candidate Filter: Chi2, k: 500. Median AUC Score: 0.72, AUC variance: 0.011
+Candidate Filter: Chi2, k: 750. Median AUC Score: 0.687, AUC variance: 0.02
+Candidate Filter: Chi2, k: 1000. Median AUC Score: 0.7, AUC variance: 0.019
+Candidate Filter: DecisionStump, k: 250. Median AUC Score: 0.722, AUC variance: 0.022
+Candidate Filter: DecisionStump, k: 500. Median AUC Score: 0.734, AUC variance: 0.019
+Candidate Filter: DecisionStump, k: 750. Median AUC Score: 0.714, AUC variance: 0.019
+Candidate Filter: DecisionStump, k: 1000. Median AUC Score: 0.697, AUC variance: 0.018
+Candidate Filter: LogOddsRatio, k: 250. Median AUC Score: 0.753, AUC variance: 0.01
+Candidate Filter: LogOddsRatio, k: 500. Median AUC Score: 0.757, AUC variance: 0.027
+Candidate Filter: LogOddsRatio, k: 750. Median AUC Score: 0.733, AUC variance: 0.02
+Candidate Filter: LogOddsRatio, k: 1000. Median AUC Score: 0.684, AUC variance: 0.018
+Candidate Filter: AsymmetricOptimalPrediction, k: 250. Median AUC Score: 0.685, AUC variance: 0.011
+Candidate Filter: AsymmetricOptimalPrediction, k: 500. Median AUC Score: 0.71, AUC variance: 0.023
+Candidate Filter: AsymmetricOptimalPrediction, k: 750. Median AUC Score: 0.688, AUC variance: 0.026
+Candidate Filter: AsymmetricOptimalPrediction, k: 1000. Median AUC Score: 0.71, AUC variance: 0.018
+Chosen strategy: LogOddsRatio_500. Average score 0.7572463768115942 and variance 0.026902103913550284
+AutoFilter InternalCV end. Selected filter strategy : LogOddsRatio with k = 500
+Applying filter LogOddsRatio with k: 500
+Fold 1. AUC score: 0.714
+Applying filter LogOddsRatio with k: 500
+Fold 2. AUC score: 0.641
+Applying filter LogOddsRatio with k: 500
+Fold 3. AUC score: 0.575
+Applying filter LogOddsRatio with k: 500
+Fold 4. AUC score: 0.757
+Applying filter LogOddsRatio with k: 500
+Fold 5. AUC score: 0.724
+Applying filter LogOddsRatio with k: 500
+Fold 6. AUC score: 0.707
+Applying filter LogOddsRatio with k: 500
+Fold 7. AUC score: 0.873
+Applying filter LogOddsRatio with k: 500
+Fold 8. AUC score: 0.896
+Applying filter LogOddsRatio with k: 500
+Fold 9. AUC score: 0.849
+Applying filter LogOddsRatio with k: 500
+Fold 10. AUC score: 0.9
+Median AUC: 0.741
+total runtime: 873s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans GenAge dataset_v1.tsv, for filter: AutoFilter
+Running InternalCV for AutoFilter. Method: InfoGain k: 25
+Running InternalCV for AutoFilter. Method: InfoGain k: 50
+Running InternalCV for AutoFilter. Method: InfoGain k: 75
+Running InternalCV for AutoFilter. Method: InfoGain k: 100
+Running InternalCV for AutoFilter. Method: Chi2 k: 25
+Running InternalCV for AutoFilter. Method: Chi2 k: 50
+Running InternalCV for AutoFilter. Method: Chi2 k: 75
+Running InternalCV for AutoFilter. Method: Chi2 k: 100
+Running InternalCV for AutoFilter. Method: DecisionStump k: 25
+Running InternalCV for AutoFilter. Method: DecisionStump k: 50
+Running InternalCV for AutoFilter. Method: DecisionStump k: 75
+Running InternalCV for AutoFilter. Method: DecisionStump k: 100
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 25
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 50
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 75
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 100
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 25
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 50
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 75
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 100
+Candidate Filter: InfoGain, k: 25. Median AUC Score: 0.676, AUC variance: 0.003
+Candidate Filter: InfoGain, k: 50. Median AUC Score: 0.746, AUC variance: 0.011
+Candidate Filter: InfoGain, k: 75. Median AUC Score: 0.779, AUC variance: 0.003
+Candidate Filter: InfoGain, k: 100. Median AUC Score: 0.743, AUC variance: 0.005
+Candidate Filter: Chi2, k: 25. Median AUC Score: 0.699, AUC variance: 0.005
+Candidate Filter: Chi2, k: 50. Median AUC Score: 0.75, AUC variance: 0.008
+Candidate Filter: Chi2, k: 75. Median AUC Score: 0.759, AUC variance: 0.005
+Candidate Filter: Chi2, k: 100. Median AUC Score: 0.762, AUC variance: 0.004
+Candidate Filter: DecisionStump, k: 25. Median AUC Score: 0.667, AUC variance: 0.004
+Candidate Filter: DecisionStump, k: 50. Median AUC Score: 0.693, AUC variance: 0.004
+Candidate Filter: DecisionStump, k: 75. Median AUC Score: 0.667, AUC variance: 0.005
+Candidate Filter: DecisionStump, k: 100. Median AUC Score: 0.655, AUC variance: 0.006
+Candidate Filter: LogOddsRatio, k: 25. Median AUC Score: 0.742, AUC variance: 0.009
+Candidate Filter: LogOddsRatio, k: 50. Median AUC Score: 0.74, AUC variance: 0.01
+Candidate Filter: LogOddsRatio, k: 75. Median AUC Score: 0.696, AUC variance: 0.011
+Candidate Filter: LogOddsRatio, k: 100. Median AUC Score: 0.738, AUC variance: 0.006
+Candidate Filter: AsymmetricOptimalPrediction, k: 25. Median AUC Score: 0.735, AUC variance: 0.009
+Candidate Filter: AsymmetricOptimalPrediction, k: 50. Median AUC Score: 0.717, AUC variance: 0.012
+Candidate Filter: AsymmetricOptimalPrediction, k: 75. Median AUC Score: 0.724, AUC variance: 0.01
+Candidate Filter: AsymmetricOptimalPrediction, k: 100. Median AUC Score: 0.712, AUC variance: 0.006
+Chosen strategy: InfoGain_75. Average score 0.779055183946488 and variance 0.0032573180539465798
+AutoFilter InternalCV end. Selected filter strategy : InfoGain with k = 75
+Applying filter InfoGain with k: 75
+Fold 1. AUC score: 0.571
+Applying filter InfoGain with k: 75
+Fold 2. AUC score: 0.553
+Applying filter InfoGain with k: 75
+Fold 3. AUC score: 0.666
+Applying filter InfoGain with k: 75
+Fold 4. AUC score: 0.528
+Applying filter InfoGain with k: 75
+Fold 5. AUC score: 0.749
+Applying filter InfoGain with k: 75
+Fold 6. AUC score: 0.632
+Applying filter InfoGain with k: 75
+Fold 7. AUC score: 0.703
+Applying filter InfoGain with k: 75
+Fold 8. AUC score: 0.716
+Applying filter InfoGain with k: 75
+Fold 9. AUC score: 0.84
+Applying filter InfoGain with k: 75
+Fold 10. AUC score: 0.862
+Median AUC: 0.685
+total runtime: 510s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans Protein Interactors dataset_v2.tsv, for filter: AutoFilter
+Running InternalCV for AutoFilter. Method: InfoGain k: 250
+Running InternalCV for AutoFilter. Method: InfoGain k: 500
+Running InternalCV for AutoFilter. Method: InfoGain k: 750
+Running InternalCV for AutoFilter. Method: InfoGain k: 1000
+Running InternalCV for AutoFilter. Method: Chi2 k: 250
+Running InternalCV for AutoFilter. Method: Chi2 k: 500
+Running InternalCV for AutoFilter. Method: Chi2 k: 750
+Running InternalCV for AutoFilter. Method: Chi2 k: 1000
+Running InternalCV for AutoFilter. Method: DecisionStump k: 250
+Running InternalCV for AutoFilter. Method: DecisionStump k: 500
+Running InternalCV for AutoFilter. Method: DecisionStump k: 750
+Running InternalCV for AutoFilter. Method: DecisionStump k: 1000
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 250
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 500
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 750
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 1000
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 250
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 500
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 750
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 1000
+Candidate Filter: InfoGain, k: 250. Median AUC Score: 0.68, AUC variance: 0.003
+Candidate Filter: InfoGain, k: 500. Median AUC Score: 0.683, AUC variance: 0.001
+Candidate Filter: InfoGain, k: 750. Median AUC Score: 0.677, AUC variance: 0.001
+Candidate Filter: InfoGain, k: 1000. Median AUC Score: 0.682, AUC variance: 0.001
+Candidate Filter: Chi2, k: 250. Median AUC Score: 0.633, AUC variance: 0.005
+Candidate Filter: Chi2, k: 500. Median AUC Score: 0.661, AUC variance: 0.001
+Candidate Filter: Chi2, k: 750. Median AUC Score: 0.697, AUC variance: 0.002
+Candidate Filter: Chi2, k: 1000. Median AUC Score: 0.708, AUC variance: 0.002
+Candidate Filter: DecisionStump, k: 250. Median AUC Score: 0.67, AUC variance: 0.004
+Candidate Filter: DecisionStump, k: 500. Median AUC Score: 0.686, AUC variance: 0.002
+Candidate Filter: DecisionStump, k: 750. Median AUC Score: 0.698, AUC variance: 0.001
+Candidate Filter: DecisionStump, k: 1000. Median AUC Score: 0.691, AUC variance: 0.001
+Candidate Filter: LogOddsRatio, k: 250. Median AUC Score: 0.607, AUC variance: 0.007
+Candidate Filter: LogOddsRatio, k: 500. Median AUC Score: 0.69, AUC variance: 0.003
+Candidate Filter: LogOddsRatio, k: 750. Median AUC Score: 0.682, AUC variance: 0.004
+Candidate Filter: LogOddsRatio, k: 1000. Median AUC Score: 0.7, AUC variance: 0.002
+Candidate Filter: AsymmetricOptimalPrediction, k: 250. Median AUC Score: 0.638, AUC variance: 0.005
+Candidate Filter: AsymmetricOptimalPrediction, k: 500. Median AUC Score: 0.666, AUC variance: 0.004
+Candidate Filter: AsymmetricOptimalPrediction, k: 750. Median AUC Score: 0.663, AUC variance: 0.004
+Candidate Filter: AsymmetricOptimalPrediction, k: 1000. Median AUC Score: 0.628, AUC variance: 0.004
+Chosen strategy: Chi2_1000. Average score 0.7076524198617222 and variance 0.0017666864811772295
+AutoFilter InternalCV end. Selected filter strategy : Chi2 with k = 1000
+Applying filter Chi2 with k: 1000
+Fold 1. AUC score: 0.836
+Applying filter Chi2 with k: 1000
+Fold 2. AUC score: 0.811
+Applying filter Chi2 with k: 1000
+Fold 3. AUC score: 0.537
+Applying filter Chi2 with k: 1000
+Fold 4. AUC score: 0.656
+Applying filter Chi2 with k: 1000
+Fold 5. AUC score: 0.719
+Applying filter Chi2 with k: 1000
+Fold 6. AUC score: 0.634
+Applying filter Chi2 with k: 1000
+Fold 7. AUC score: 0.778
+Applying filter Chi2 with k: 1000
+Fold 8. AUC score: 0.675
+Applying filter Chi2 with k: 1000
+Fold 9. AUC score: 0.618
+Applying filter Chi2 with k: 1000
+Fold 10. AUC score: 0.616
+Median AUC: 0.666
+total runtime: 4647s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans GOTerms dataset_v2.tsv, for filter: AutoFilter
+Running InternalCV for AutoFilter. Method: InfoGain k: 250
+Running InternalCV for AutoFilter. Method: InfoGain k: 500
+Running InternalCV for AutoFilter. Method: InfoGain k: 750
+Running InternalCV for AutoFilter. Method: InfoGain k: 1000
+Running InternalCV for AutoFilter. Method: Chi2 k: 250
+Running InternalCV for AutoFilter. Method: Chi2 k: 500
+Running InternalCV for AutoFilter. Method: Chi2 k: 750
+Running InternalCV for AutoFilter. Method: Chi2 k: 1000
+Running InternalCV for AutoFilter. Method: DecisionStump k: 250
+Running InternalCV for AutoFilter. Method: DecisionStump k: 500
+Running InternalCV for AutoFilter. Method: DecisionStump k: 750
+Running InternalCV for AutoFilter. Method: DecisionStump k: 1000
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 250
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 500
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 750
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 1000
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 250
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 500
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 750
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 1000
+Candidate Filter: InfoGain, k: 250. Median AUC Score: 0.704, AUC variance: 0.001
+Candidate Filter: InfoGain, k: 500. Median AUC Score: 0.704, AUC variance: 0.002
+Candidate Filter: InfoGain, k: 750. Median AUC Score: 0.716, AUC variance: 0.002
+Candidate Filter: InfoGain, k: 1000. Median AUC Score: 0.715, AUC variance: 0.003
+Candidate Filter: Chi2, k: 250. Median AUC Score: 0.681, AUC variance: 0.003
+Candidate Filter: Chi2, k: 500. Median AUC Score: 0.696, AUC variance: 0.001
+Candidate Filter: Chi2, k: 750. Median AUC Score: 0.707, AUC variance: 0.001
+Candidate Filter: Chi2, k: 1000. Median AUC Score: 0.712, AUC variance: 0.002
+Candidate Filter: DecisionStump, k: 250. Median AUC Score: 0.74, AUC variance: 0.002
+Candidate Filter: DecisionStump, k: 500. Median AUC Score: 0.736, AUC variance: 0.002
+Candidate Filter: DecisionStump, k: 750. Median AUC Score: 0.739, AUC variance: 0.001
+Candidate Filter: DecisionStump, k: 1000. Median AUC Score: 0.73, AUC variance: 0.001
+Candidate Filter: LogOddsRatio, k: 250. Median AUC Score: 0.634, AUC variance: 0.005
+Candidate Filter: LogOddsRatio, k: 500. Median AUC Score: 0.65, AUC variance: 0.004
+Candidate Filter: LogOddsRatio, k: 750. Median AUC Score: 0.655, AUC variance: 0.004
+Candidate Filter: LogOddsRatio, k: 1000. Median AUC Score: 0.654, AUC variance: 0.007
+Candidate Filter: AsymmetricOptimalPrediction, k: 250. Median AUC Score: 0.686, AUC variance: 0.004
+Candidate Filter: AsymmetricOptimalPrediction, k: 500. Median AUC Score: 0.69, AUC variance: 0.003
+Candidate Filter: AsymmetricOptimalPrediction, k: 750. Median AUC Score: 0.669, AUC variance: 0.004
+Candidate Filter: AsymmetricOptimalPrediction, k: 1000. Median AUC Score: 0.682, AUC variance: 0.004
+Chosen strategy: DecisionStump_250. Average score 0.7399434318038969 and variance 0.0023172756624053486
+AutoFilter InternalCV end. Selected filter strategy : DecisionStump with k = 250
+Applying filter DecisionStump with k: 250
+Fold 1. AUC score: 0.867
+Applying filter DecisionStump with k: 250
+Fold 2. AUC score: 0.903
+Applying filter DecisionStump with k: 250
+Fold 3. AUC score: 0.554
+Applying filter DecisionStump with k: 250
+Fold 4. AUC score: 0.635
+Applying filter DecisionStump with k: 250
+Fold 5. AUC score: 0.696
+Applying filter DecisionStump with k: 250
+Fold 6. AUC score: 0.752
+Applying filter DecisionStump with k: 250
+Fold 7. AUC score: 0.83
+Applying filter DecisionStump with k: 250
+Fold 8. AUC score: 0.713
+Applying filter DecisionStump with k: 250
+Fold 9. AUC score: 0.62
+Applying filter DecisionStump with k: 250
+Fold 10. AUC score: 0.772
+Median AUC: 0.732
+total runtime: 4093s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans Phenotypes dataset_v2.tsv, for filter: AutoFilter
+Running InternalCV for AutoFilter. Method: InfoGain k: 100
+Running InternalCV for AutoFilter. Method: InfoGain k: 200
+Running InternalCV for AutoFilter. Method: InfoGain k: 300
+Running InternalCV for AutoFilter. Method: InfoGain k: 400
+Running InternalCV for AutoFilter. Method: Chi2 k: 100
+Running InternalCV for AutoFilter. Method: Chi2 k: 200
+Running InternalCV for AutoFilter. Method: Chi2 k: 300
+Running InternalCV for AutoFilter. Method: Chi2 k: 400
+Running InternalCV for AutoFilter. Method: DecisionStump k: 100
+Running InternalCV for AutoFilter. Method: DecisionStump k: 200
+Running InternalCV for AutoFilter. Method: DecisionStump k: 300
+Running InternalCV for AutoFilter. Method: DecisionStump k: 400
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 100
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 200
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 300
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 400
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 100
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 200
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 300
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 400
+Candidate Filter: InfoGain, k: 100. Median AUC Score: 0.675, AUC variance: 0.002
+Candidate Filter: InfoGain, k: 200. Median AUC Score: 0.653, AUC variance: 0.003
+Candidate Filter: InfoGain, k: 300. Median AUC Score: 0.697, AUC variance: 0.003
+Candidate Filter: InfoGain, k: 400. Median AUC Score: 0.674, AUC variance: 0.003
+Candidate Filter: Chi2, k: 100. Median AUC Score: 0.628, AUC variance: 0.006
+Candidate Filter: Chi2, k: 200. Median AUC Score: 0.653, AUC variance: 0.004
+Candidate Filter: Chi2, k: 300. Median AUC Score: 0.699, AUC variance: 0.004
+Candidate Filter: Chi2, k: 400. Median AUC Score: 0.689, AUC variance: 0.003
+Candidate Filter: DecisionStump, k: 100. Median AUC Score: 0.669, AUC variance: 0.004
+Candidate Filter: DecisionStump, k: 200. Median AUC Score: 0.683, AUC variance: 0.003
+Candidate Filter: DecisionStump, k: 300. Median AUC Score: 0.671, AUC variance: 0.002
+Candidate Filter: DecisionStump, k: 400. Median AUC Score: 0.671, AUC variance: 0.002
+Candidate Filter: LogOddsRatio, k: 100. Median AUC Score: 0.646, AUC variance: 0.005
+Candidate Filter: LogOddsRatio, k: 200. Median AUC Score: 0.651, AUC variance: 0.004
+Candidate Filter: LogOddsRatio, k: 300. Median AUC Score: 0.667, AUC variance: 0.006
+Candidate Filter: LogOddsRatio, k: 400. Median AUC Score: 0.682, AUC variance: 0.004
+Candidate Filter: AsymmetricOptimalPrediction, k: 100. Median AUC Score: 0.656, AUC variance: 0.004
+Candidate Filter: AsymmetricOptimalPrediction, k: 200. Median AUC Score: 0.679, AUC variance: 0.005
+Candidate Filter: AsymmetricOptimalPrediction, k: 300. Median AUC Score: 0.64, AUC variance: 0.004
+Candidate Filter: AsymmetricOptimalPrediction, k: 400. Median AUC Score: 0.662, AUC variance: 0.003
+Chosen strategy: Chi2_300. Average score 0.6989221364221365 and variance 0.00383214902752164
+AutoFilter InternalCV end. Selected filter strategy : Chi2 with k = 300
+Applying filter Chi2 with k: 300
+Fold 1. AUC score: 0.846
+Applying filter Chi2 with k: 300
+Fold 2. AUC score: 0.891
+Applying filter Chi2 with k: 300
+Fold 3. AUC score: 0.583
+Applying filter Chi2 with k: 300
+Fold 4. AUC score: 0.572
+Applying filter Chi2 with k: 300
+Fold 5. AUC score: 0.614
+Applying filter Chi2 with k: 300
+Fold 6. AUC score: 0.773
+Applying filter Chi2 with k: 300
+Fold 7. AUC score: 0.783
+Applying filter Chi2 with k: 300
+Fold 8. AUC score: 0.69
+Applying filter Chi2 with k: 300
+Fold 9. AUC score: 0.633
+Applying filter Chi2 with k: 300
+Fold 10. AUC score: 0.637
+Median AUC: 0.664
+total runtime: 1065s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans GenAge dataset_v2.tsv, for filter: AutoFilter
+Running InternalCV for AutoFilter. Method: InfoGain k: 24
+Running InternalCV for AutoFilter. Method: InfoGain k: 48
+Running InternalCV for AutoFilter. Method: InfoGain k: 72
+Running InternalCV for AutoFilter. Method: InfoGain k: 96
+Running InternalCV for AutoFilter. Method: Chi2 k: 24
+Running InternalCV for AutoFilter. Method: Chi2 k: 48
+Running InternalCV for AutoFilter. Method: Chi2 k: 72
+Running InternalCV for AutoFilter. Method: Chi2 k: 96
+Running InternalCV for AutoFilter. Method: DecisionStump k: 24
+Running InternalCV for AutoFilter. Method: DecisionStump k: 48
+Running InternalCV for AutoFilter. Method: DecisionStump k: 72
+Running InternalCV for AutoFilter. Method: DecisionStump k: 96
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 24
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 48
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 72
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 96
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 24
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 48
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 72
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 96
+Candidate Filter: InfoGain, k: 24. Median AUC Score: 0.611, AUC variance: 0.003
+Candidate Filter: InfoGain, k: 48. Median AUC Score: 0.61, AUC variance: 0.005
+Candidate Filter: InfoGain, k: 72. Median AUC Score: 0.638, AUC variance: 0.003
+Candidate Filter: InfoGain, k: 96. Median AUC Score: 0.646, AUC variance: 0.003
+Candidate Filter: Chi2, k: 24. Median AUC Score: 0.65, AUC variance: 0.005
+Candidate Filter: Chi2, k: 48. Median AUC Score: 0.652, AUC variance: 0.004
+Candidate Filter: Chi2, k: 72. Median AUC Score: 0.665, AUC variance: 0.002
+Candidate Filter: Chi2, k: 96. Median AUC Score: 0.644, AUC variance: 0.002
+Candidate Filter: DecisionStump, k: 24. Median AUC Score: 0.607, AUC variance: 0.003
+Candidate Filter: DecisionStump, k: 48. Median AUC Score: 0.644, AUC variance: 0.002
+Candidate Filter: DecisionStump, k: 72. Median AUC Score: 0.643, AUC variance: 0.003
+Candidate Filter: DecisionStump, k: 96. Median AUC Score: 0.642, AUC variance: 0.003
+Candidate Filter: LogOddsRatio, k: 24. Median AUC Score: 0.641, AUC variance: 0.003
+Candidate Filter: LogOddsRatio, k: 48. Median AUC Score: 0.642, AUC variance: 0.004
+Candidate Filter: LogOddsRatio, k: 72. Median AUC Score: 0.661, AUC variance: 0.002
+Candidate Filter: LogOddsRatio, k: 96. Median AUC Score: 0.643, AUC variance: 0.003
+Candidate Filter: AsymmetricOptimalPrediction, k: 24. Median AUC Score: 0.648, AUC variance: 0.004
+Candidate Filter: AsymmetricOptimalPrediction, k: 48. Median AUC Score: 0.651, AUC variance: 0.004
+Candidate Filter: AsymmetricOptimalPrediction, k: 72. Median AUC Score: 0.628, AUC variance: 0.005
+Candidate Filter: AsymmetricOptimalPrediction, k: 96. Median AUC Score: 0.65, AUC variance: 0.003
+Chosen strategy: Chi2_72. Average score 0.6650691389063482 and variance 0.0021196721391559615
+AutoFilter InternalCV end. Selected filter strategy : Chi2 with k = 72
+Applying filter Chi2 with k: 72
+Fold 1. AUC score: 0.82
+Applying filter Chi2 with k: 72
+Fold 2. AUC score: 0.822
+Applying filter Chi2 with k: 72
+Fold 3. AUC score: 0.595
+Applying filter Chi2 with k: 72
+Fold 4. AUC score: 0.659
+Applying filter Chi2 with k: 72
+Fold 5. AUC score: 0.661
+Applying filter Chi2 with k: 72
+Fold 6. AUC score: 0.731
+Applying filter Chi2 with k: 72
+Fold 7. AUC score: 0.688
+Applying filter Chi2 with k: 72
+Fold 8. AUC score: 0.599
+Applying filter Chi2 with k: 72
+Fold 9. AUC score: 0.587
+Applying filter Chi2 with k: 72
+Fold 10. AUC score: 0.676
+Median AUC: 0.668
+total runtime: 600s
+
+
+Opening the file: Drosophila datasets (validation experiment)\Drosophila Protein Interactors .tsv, for filter: AutoFilter
+Running InternalCV for AutoFilter. Method: InfoGain k: 25
+Running InternalCV for AutoFilter. Method: InfoGain k: 50
+Running InternalCV for AutoFilter. Method: InfoGain k: 75
+Running InternalCV for AutoFilter. Method: InfoGain k: 100
+Running InternalCV for AutoFilter. Method: Chi2 k: 25
+Running InternalCV for AutoFilter. Method: Chi2 k: 50
+Running InternalCV for AutoFilter. Method: Chi2 k: 75
+Running InternalCV for AutoFilter. Method: Chi2 k: 100
+Running InternalCV for AutoFilter. Method: DecisionStump k: 25
+Running InternalCV for AutoFilter. Method: DecisionStump k: 50
+Running InternalCV for AutoFilter. Method: DecisionStump k: 75
+Running InternalCV for AutoFilter. Method: DecisionStump k: 100
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 25
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 50
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 75
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 100
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 25
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 50
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 75
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 100
+Candidate Filter: InfoGain, k: 25. Median AUC Score: 0.562, AUC variance: 0.031
+Candidate Filter: InfoGain, k: 50. Median AUC Score: 0.625, AUC variance: 0.027
+Candidate Filter: InfoGain, k: 75. Median AUC Score: 0.625, AUC variance: 0.02
+Candidate Filter: InfoGain, k: 100. Median AUC Score: 0.688, AUC variance: 0.014
+Candidate Filter: Chi2, k: 25. Median AUC Score: 0.812, AUC variance: 0.008
+Candidate Filter: Chi2, k: 50. Median AUC Score: 0.719, AUC variance: 0.018
+Candidate Filter: Chi2, k: 75. Median AUC Score: 0.719, AUC variance: 0.014
+Candidate Filter: Chi2, k: 100. Median AUC Score: 0.719, AUC variance: 0.012
+Candidate Filter: DecisionStump, k: 25. Median AUC Score: 0.812, AUC variance: 0.009
+Candidate Filter: DecisionStump, k: 50. Median AUC Score: 0.781, AUC variance: 0.018
+Candidate Filter: DecisionStump, k: 75. Median AUC Score: 0.719, AUC variance: 0.012
+Candidate Filter: DecisionStump, k: 100. Median AUC Score: 0.719, AUC variance: 0.012
+Candidate Filter: LogOddsRatio, k: 25. Median AUC Score: 0.812, AUC variance: 0.008
+Candidate Filter: LogOddsRatio, k: 50. Median AUC Score: 0.781, AUC variance: 0.018
+Candidate Filter: LogOddsRatio, k: 75. Median AUC Score: 0.719, AUC variance: 0.014
+Candidate Filter: LogOddsRatio, k: 100. Median AUC Score: 0.719, AUC variance: 0.012
+Candidate Filter: AsymmetricOptimalPrediction, k: 25. Median AUC Score: 0.812, AUC variance: 0.008
+Candidate Filter: AsymmetricOptimalPrediction, k: 50. Median AUC Score: 0.75, AUC variance: 0.015
+Candidate Filter: AsymmetricOptimalPrediction, k: 75. Median AUC Score: 0.719, AUC variance: 0.014
+Candidate Filter: AsymmetricOptimalPrediction, k: 100. Median AUC Score: 0.719, AUC variance: 0.012
+Chosen strategy: Chi2_25. Average score 0.8125 and variance 0.0078125
+AutoFilter InternalCV end. Selected filter strategy : Chi2 with k = 25
+Applying filter Chi2 with k: 25
+Fold 1. AUC score: 0.75
+Applying filter Chi2 with k: 25
+Fold 2. AUC score: 0.5
+Applying filter Chi2 with k: 25
+Fold 3. AUC score: 1.0
+Applying filter Chi2 with k: 25
+Fold 4. AUC score: 0.667
+Applying filter Chi2 with k: 25
+Fold 5. AUC score: 0.667
+Applying filter Chi2 with k: 25
+Fold 6. AUC score: 1.0
+Applying filter Chi2 with k: 25
+Fold 7. AUC score: 0.75
+Applying filter Chi2 with k: 25
+Fold 8. AUC score: 1.0
+Applying filter Chi2 with k: 25
+Fold 9. AUC score: 0.875
+Applying filter Chi2 with k: 25
+Fold 10. AUC score: 1.0
+Median AUC: 0.812
+total runtime: 517s
+
+
+Opening the file: Drosophila datasets (validation experiment)\Drosophila GO Terms.tsv, for filter: AutoFilter
+Running InternalCV for AutoFilter. Method: InfoGain k: 250
+Running InternalCV for AutoFilter. Method: InfoGain k: 500
+Running InternalCV for AutoFilter. Method: InfoGain k: 750
+Running InternalCV for AutoFilter. Method: InfoGain k: 1000
+Running InternalCV for AutoFilter. Method: Chi2 k: 250
+Running InternalCV for AutoFilter. Method: Chi2 k: 500
+Running InternalCV for AutoFilter. Method: Chi2 k: 750
+Running InternalCV for AutoFilter. Method: Chi2 k: 1000
+Running InternalCV for AutoFilter. Method: DecisionStump k: 250
+Running InternalCV for AutoFilter. Method: DecisionStump k: 500
+Running InternalCV for AutoFilter. Method: DecisionStump k: 750
+Running InternalCV for AutoFilter. Method: DecisionStump k: 1000
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 250
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 500
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 750
+Running InternalCV for AutoFilter. Method: LogOddsRatio k: 1000
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 250
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 500
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 750
+Running InternalCV for AutoFilter. Method: AsymmetricOptimalPrediction k: 1000
+Candidate Filter: InfoGain, k: 250. Median AUC Score: 0.5, AUC variance: 0.042
+Candidate Filter: InfoGain, k: 500. Median AUC Score: 0.438, AUC variance: 0.055
+Candidate Filter: InfoGain, k: 750. Median AUC Score: 0.5, AUC variance: 0.046
+Candidate Filter: InfoGain, k: 1000. Median AUC Score: 0.438, AUC variance: 0.044
+Candidate Filter: Chi2, k: 250. Median AUC Score: 0.594, AUC variance: 0.072
+Candidate Filter: Chi2, k: 500. Median AUC Score: 0.562, AUC variance: 0.039
+Candidate Filter: Chi2, k: 750. Median AUC Score: 0.375, AUC variance: 0.067
+Candidate Filter: Chi2, k: 1000. Median AUC Score: 0.562, AUC variance: 0.037
+Candidate Filter: DecisionStump, k: 250. Median AUC Score: 0.5, AUC variance: 0.026
+Candidate Filter: DecisionStump, k: 500. Median AUC Score: 0.469, AUC variance: 0.038
+Candidate Filter: DecisionStump, k: 750. Median AUC Score: 0.562, AUC variance: 0.033
+Candidate Filter: DecisionStump, k: 1000. Median AUC Score: 0.438, AUC variance: 0.058
+Candidate Filter: LogOddsRatio, k: 250. Median AUC Score: 0.5, AUC variance: 0.045
+Candidate Filter: LogOddsRatio, k: 500. Median AUC Score: 0.5, AUC variance: 0.056
+Candidate Filter: LogOddsRatio, k: 750. Median AUC Score: 0.438, AUC variance: 0.047
+Candidate Filter: LogOddsRatio, k: 1000. Median AUC Score: 0.375, AUC variance: 0.058
+Candidate Filter: AsymmetricOptimalPrediction, k: 250. Median AUC Score: 0.531, AUC variance: 0.043
+Candidate Filter: AsymmetricOptimalPrediction, k: 500. Median AUC Score: 0.5, AUC variance: 0.042
+Candidate Filter: AsymmetricOptimalPrediction, k: 750. Median AUC Score: 0.438, AUC variance: 0.062
+Candidate Filter: AsymmetricOptimalPrediction, k: 1000. Median AUC Score: 0.375, AUC variance: 0.07
+Chosen strategy: Chi2_250. Average score 0.59375 and variance 0.071875
+AutoFilter InternalCV end. Selected filter strategy : Chi2 with k = 250
+Applying filter Chi2 with k: 250
+Fold 1. AUC score: 0.0
+Applying filter Chi2 with k: 250
+Fold 2. AUC score: 0.833
+Applying filter Chi2 with k: 250
+Fold 3. AUC score: 1.0
+Applying filter Chi2 with k: 250
+Fold 4. AUC score: 0.333
+Applying filter Chi2 with k: 250
+Fold 5. AUC score: 0.5
+Applying filter Chi2 with k: 250
+Fold 6. AUC score: 0.5
+Applying filter Chi2 with k: 250
+Fold 7. AUC score: 0.25
+Applying filter Chi2 with k: 250
+Fold 8. AUC score: 0.25
+Applying filter Chi2 with k: 250
+Fold 9. AUC score: 1.0
+Applying filter Chi2 with k: 250
+Fold 10. AUC score: 1.0
+Median AUC: 0.5
+total runtime: 1616s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans Protein Interactors dataset_v1.tsv, for filter: InfoGain
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 1. AUC score: 0.881
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 2. AUC score: 0.838
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 3. AUC score: 0.593
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 4. AUC score: 0.749
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 5. AUC score: 0.534
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 6. AUC score: 0.755
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 7. AUC score: 0.88
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 8. AUC score: 0.662
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 9. AUC score: 0.597
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 10. AUC score: 0.685
+Median AUC: 0.717
+total runtime: 345s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans GOTerms dataset_v1.tsv, for filter: InfoGain
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 1. AUC score: 0.702
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 2. AUC score: 0.772
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 3. AUC score: 0.676
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 4. AUC score: 0.739
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 5. AUC score: 0.846
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 6. AUC score: 0.783
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 7. AUC score: 0.853
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 8. AUC score: 0.876
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 9. AUC score: 0.933
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 10. AUC score: 0.832
+Median AUC: 0.808
+total runtime: 594s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans Phenotypes dataset_v1.tsv, for filter: InfoGain
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 1. AUC score: 0.616
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 2. AUC score: 0.649
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 3. AUC score: 0.639
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 4. AUC score: 0.678
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 5. AUC score: 0.773
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 6. AUC score: 0.669
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 7. AUC score: 0.864
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 8. AUC score: 0.868
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 9. AUC score: 0.868
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 10. AUC score: 0.859
+Median AUC: 0.726
+total runtime: 103s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans GenAge dataset_v1.tsv, for filter: InfoGain
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 1. AUC score: 0.679
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 2. AUC score: 0.647
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 3. AUC score: 0.605
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 4. AUC score: 0.655
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 5. AUC score: 0.745
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 6. AUC score: 0.76
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 7. AUC score: 0.764
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 8. AUC score: 0.747
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 9. AUC score: 0.819
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 10. AUC score: 0.83
+Median AUC: 0.746
+total runtime: 44s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans Protein Interactors dataset_v2.tsv, for filter: InfoGain
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 1. AUC score: 0.859
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 2. AUC score: 0.879
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 3. AUC score: 0.62
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 4. AUC score: 0.633
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 5. AUC score: 0.657
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 6. AUC score: 0.738
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 7. AUC score: 0.792
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 8. AUC score: 0.714
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 9. AUC score: 0.695
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 10. AUC score: 0.699
+Median AUC: 0.706
+total runtime: 436s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans GOTerms dataset_v2.tsv, for filter: InfoGain
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 1. AUC score: 0.868
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 2. AUC score: 0.941
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 3. AUC score: 0.639
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 4. AUC score: 0.639
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 5. AUC score: 0.697
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 6. AUC score: 0.779
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 7. AUC score: 0.847
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 8. AUC score: 0.726
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 9. AUC score: 0.662
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 10. AUC score: 0.729
+Median AUC: 0.728
+total runtime: 733s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans Phenotypes dataset_v2.tsv, for filter: InfoGain
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 1. AUC score: 0.837
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 2. AUC score: 0.893
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 3. AUC score: 0.587
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 4. AUC score: 0.647
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 5. AUC score: 0.631
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 6. AUC score: 0.775
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 7. AUC score: 0.781
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 8. AUC score: 0.684
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 9. AUC score: 0.627
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 10. AUC score: 0.652
+Median AUC: 0.668
+total runtime: 141s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans GenAge dataset_v2.tsv, for filter: InfoGain
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 1. AUC score: 0.811
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 2. AUC score: 0.857
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 3. AUC score: 0.593
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 4. AUC score: 0.521
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 5. AUC score: 0.698
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 6. AUC score: 0.722
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 7. AUC score: 0.755
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 8. AUC score: 0.645
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 9. AUC score: 0.599
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 10. AUC score: 0.667
+Median AUC: 0.683
+total runtime: 56s
+
+
+Opening the file: Drosophila datasets (validation experiment)\Drosophila Protein Interactors .tsv, for filter: InfoGain
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 1. AUC score: 0.667
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 2. AUC score: 0.833
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 3. AUC score: 0.667
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 4. AUC score: 0.917
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 5. AUC score: 0.333
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 6. AUC score: 0.75
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 7. AUC score: 0.25
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 8. AUC score: 1.0
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 9. AUC score: 0.75
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 10. AUC score: 1.0
+Median AUC: 0.75
+total runtime: 48s
+
+
+Opening the file: Drosophila datasets (validation experiment)\Drosophila GO Terms.tsv, for filter: InfoGain
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 1. AUC score: 0.0
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 2. AUC score: 0.833
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 3. AUC score: 1.0
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 4. AUC score: 0.333
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 5. AUC score: 0.5
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 6. AUC score: 0.5
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 7. AUC score: 0.0
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 8. AUC score: 0.5
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 9. AUC score: 0.75
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 10. AUC score: 1.0
+Median AUC: 0.5
+total runtime: 103s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans Protein Interactors dataset_v1.tsv, for filter: Chi2
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 1. AUC score: 0.881
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 2. AUC score: 0.838
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 3. AUC score: 0.593
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 4. AUC score: 0.749
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 5. AUC score: 0.534
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 6. AUC score: 0.755
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 7. AUC score: 0.88
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 8. AUC score: 0.662
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 9. AUC score: 0.597
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 10. AUC score: 0.685
+Median AUC: 0.717
+total runtime: 191s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans GOTerms dataset_v1.tsv, for filter: Chi2
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 1. AUC score: 0.702
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 2. AUC score: 0.772
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 3. AUC score: 0.676
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 4. AUC score: 0.739
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 5. AUC score: 0.846
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 6. AUC score: 0.783
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 7. AUC score: 0.853
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 8. AUC score: 0.876
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 9. AUC score: 0.933
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 10. AUC score: 0.832
+Median AUC: 0.808
+total runtime: 286s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans Phenotypes dataset_v1.tsv, for filter: Chi2
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 1. AUC score: 0.616
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 2. AUC score: 0.649
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 3. AUC score: 0.639
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 4. AUC score: 0.678
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 5. AUC score: 0.773
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 6. AUC score: 0.669
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 7. AUC score: 0.864
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 8. AUC score: 0.868
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 9. AUC score: 0.868
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 10. AUC score: 0.859
+Median AUC: 0.726
+total runtime: 60s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans GenAge dataset_v1.tsv, for filter: Chi2
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 1. AUC score: 0.679
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 2. AUC score: 0.647
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 3. AUC score: 0.605
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 4. AUC score: 0.655
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 5. AUC score: 0.745
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 6. AUC score: 0.76
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 7. AUC score: 0.764
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 8. AUC score: 0.747
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 9. AUC score: 0.819
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 10. AUC score: 0.83
+Median AUC: 0.746
+total runtime: 42s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans Protein Interactors dataset_v2.tsv, for filter: Chi2
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 1. AUC score: 0.859
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 2. AUC score: 0.879
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 3. AUC score: 0.62
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 4. AUC score: 0.633
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 5. AUC score: 0.657
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 6. AUC score: 0.738
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 7. AUC score: 0.792
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 8. AUC score: 0.714
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 9. AUC score: 0.695
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 10. AUC score: 0.699
+Median AUC: 0.706
+total runtime: 256s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans GOTerms dataset_v2.tsv, for filter: Chi2
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 1. AUC score: 0.868
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 2. AUC score: 0.941
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 3. AUC score: 0.639
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 4. AUC score: 0.639
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 5. AUC score: 0.697
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 6. AUC score: 0.779
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 7. AUC score: 0.847
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 8. AUC score: 0.726
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 9. AUC score: 0.662
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 10. AUC score: 0.729
+Median AUC: 0.728
+total runtime: 234s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans Phenotypes dataset_v2.tsv, for filter: Chi2
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 1. AUC score: 0.837
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 2. AUC score: 0.893
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 3. AUC score: 0.587
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 4. AUC score: 0.647
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 5. AUC score: 0.631
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 6. AUC score: 0.775
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 7. AUC score: 0.781
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 8. AUC score: 0.684
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 9. AUC score: 0.627
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 10. AUC score: 0.652
+Median AUC: 0.668
+total runtime: 42s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans GenAge dataset_v2.tsv, for filter: Chi2
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 1. AUC score: 0.811
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 2. AUC score: 0.857
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 3. AUC score: 0.593
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 4. AUC score: 0.521
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 5. AUC score: 0.698
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 6. AUC score: 0.722
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 7. AUC score: 0.755
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 8. AUC score: 0.645
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 9. AUC score: 0.599
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 10. AUC score: 0.667
+Median AUC: 0.683
+total runtime: 28s
+
+
+Opening the file: Drosophila datasets (validation experiment)\Drosophila Protein Interactors .tsv, for filter: Chi2
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 1. AUC score: 0.667
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 2. AUC score: 0.833
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 3. AUC score: 0.667
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 4. AUC score: 0.917
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 5. AUC score: 0.333
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 6. AUC score: 0.75
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 7. AUC score: 0.25
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 8. AUC score: 1.0
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 9. AUC score: 0.75
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 10. AUC score: 1.0
+Median AUC: 0.75
+total runtime: 31s
+
+
+Opening the file: Drosophila datasets (validation experiment)\Drosophila GO Terms.tsv, for filter: Chi2
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 1. AUC score: 0.0
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 2. AUC score: 0.833
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 3. AUC score: 1.0
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 4. AUC score: 0.333
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 5. AUC score: 0.5
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 6. AUC score: 0.5
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 7. AUC score: 0.0
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 8. AUC score: 0.5
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 9. AUC score: 0.75
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 10. AUC score: 1.0
+Median AUC: 0.5
+total runtime: 54s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans Protein Interactors dataset_v1.tsv, for filter: DecisionStump
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 1. AUC score: 0.883
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 2. AUC score: 0.843
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 3. AUC score: 0.607
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 4. AUC score: 0.737
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 5. AUC score: 0.543
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 6. AUC score: 0.757
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 7. AUC score: 0.88
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 8. AUC score: 0.652
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 9. AUC score: 0.606
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 10. AUC score: 0.682
+Median AUC: 0.71
+total runtime: 1066s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans GOTerms dataset_v1.tsv, for filter: DecisionStump
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 1. AUC score: 0.663
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 2. AUC score: 0.763
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 3. AUC score: 0.695
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 4. AUC score: 0.745
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 5. AUC score: 0.851
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 6. AUC score: 0.798
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 7. AUC score: 0.854
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 8. AUC score: 0.87
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 9. AUC score: 0.932
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 10. AUC score: 0.845
+Median AUC: 0.822
+total runtime: 1233s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans Phenotypes dataset_v1.tsv, for filter: DecisionStump
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 1. AUC score: 0.621
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 2. AUC score: 0.662
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 3. AUC score: 0.635
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 4. AUC score: 0.669
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 5. AUC score: 0.766
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 6. AUC score: 0.679
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 7. AUC score: 0.855
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 8. AUC score: 0.863
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 9. AUC score: 0.882
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 10. AUC score: 0.872
+Median AUC: 0.722
+total runtime: 202s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans GenAge dataset_v1.tsv, for filter: DecisionStump
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 1. AUC score: 0.646
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 2. AUC score: 0.632
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 3. AUC score: 0.612
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 4. AUC score: 0.654
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 5. AUC score: 0.742
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 6. AUC score: 0.783
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 7. AUC score: 0.76
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 8. AUC score: 0.756
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 9. AUC score: 0.851
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 10. AUC score: 0.83
+Median AUC: 0.749
+total runtime: 66s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans Protein Interactors dataset_v2.tsv, for filter: DecisionStump
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 1. AUC score: 0.848
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 2. AUC score: 0.881
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 3. AUC score: 0.62
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 4. AUC score: 0.638
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 5. AUC score: 0.65
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 6. AUC score: 0.742
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 7. AUC score: 0.782
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 8. AUC score: 0.716
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 9. AUC score: 0.697
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 10. AUC score: 0.695
+Median AUC: 0.707
+total runtime: 489s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans GOTerms dataset_v2.tsv, for filter: DecisionStump
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 1. AUC score: 0.853
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 2. AUC score: 0.934
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 3. AUC score: 0.635
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 4. AUC score: 0.631
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 5. AUC score: 0.703
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 6. AUC score: 0.788
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 7. AUC score: 0.843
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 8. AUC score: 0.736
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 9. AUC score: 0.664
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 10. AUC score: 0.734
+Median AUC: 0.735
+total runtime: 948s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans Phenotypes dataset_v2.tsv, for filter: DecisionStump
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 1. AUC score: 0.852
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 2. AUC score: 0.903
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 3. AUC score: 0.597
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 4. AUC score: 0.642
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 5. AUC score: 0.627
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 6. AUC score: 0.776
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 7. AUC score: 0.786
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 8. AUC score: 0.68
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 9. AUC score: 0.627
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 10. AUC score: 0.645
+Median AUC: 0.662
+total runtime: 165s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans GenAge dataset_v2.tsv, for filter: DecisionStump
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 1. AUC score: 0.815
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 2. AUC score: 0.865
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 3. AUC score: 0.586
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 4. AUC score: 0.522
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 5. AUC score: 0.696
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 6. AUC score: 0.722
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 7. AUC score: 0.757
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 8. AUC score: 0.646
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 9. AUC score: 0.598
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 10. AUC score: 0.673
+Median AUC: 0.684
+total runtime: 34s
+
+
+Opening the file: Drosophila datasets (validation experiment)\Drosophila Protein Interactors .tsv, for filter: DecisionStump
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 1. AUC score: 0.667
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 2. AUC score: 0.833
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 3. AUC score: 0.667
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 4. AUC score: 0.917
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 5. AUC score: 0.5
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 6. AUC score: 0.75
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 7. AUC score: 0.25
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 8. AUC score: 1.0
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 9. AUC score: 0.75
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 10. AUC score: 1.0
+Median AUC: 0.75
+total runtime: 32s
+
+
+Opening the file: Drosophila datasets (validation experiment)\Drosophila GO Terms.tsv, for filter: DecisionStump
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 1. AUC score: 0.0
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 2. AUC score: 1.0
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 3. AUC score: 1.0
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 4. AUC score: 0.167
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 5. AUC score: 0.5
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 6. AUC score: 0.5
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 7. AUC score: 0.0
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 8. AUC score: 0.5
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 9. AUC score: 0.75
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 10. AUC score: 1.0
+Median AUC: 0.5
+total runtime: 342s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans Protein Interactors dataset_v1.tsv, for filter: LogOddsRatio
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 1. AUC score: 0.877
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 2. AUC score: 0.844
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 3. AUC score: 0.614
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 4. AUC score: 0.752
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 5. AUC score: 0.539
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 6. AUC score: 0.762
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 7. AUC score: 0.88
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 8. AUC score: 0.658
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 9. AUC score: 0.606
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 10. AUC score: 0.689
+Median AUC: 0.72
+total runtime: 108s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans GOTerms dataset_v1.tsv, for filter: LogOddsRatio
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 1. AUC score: 0.693
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 2. AUC score: 0.779
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 3. AUC score: 0.678
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 4. AUC score: 0.732
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 5. AUC score: 0.849
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 6. AUC score: 0.79
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 7. AUC score: 0.851
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 8. AUC score: 0.882
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 9. AUC score: 0.927
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 10. AUC score: 0.851
+Median AUC: 0.82
+total runtime: 178s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans Phenotypes dataset_v1.tsv, for filter: LogOddsRatio
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 1. AUC score: 0.605
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 2. AUC score: 0.671
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 3. AUC score: 0.645
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 4. AUC score: 0.662
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 5. AUC score: 0.767
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 6. AUC score: 0.668
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 7. AUC score: 0.864
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 8. AUC score: 0.875
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 9. AUC score: 0.887
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 10. AUC score: 0.882
+Median AUC: 0.719
+total runtime: 32s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans GenAge dataset_v1.tsv, for filter: LogOddsRatio
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 1. AUC score: 0.666
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 2. AUC score: 0.64
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 3. AUC score: 0.604
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 4. AUC score: 0.654
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 5. AUC score: 0.748
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 6. AUC score: 0.771
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 7. AUC score: 0.761
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 8. AUC score: 0.748
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 9. AUC score: 0.831
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 10. AUC score: 0.817
+Median AUC: 0.748
+total runtime: 21s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans Protein Interactors dataset_v2.tsv, for filter: LogOddsRatio
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 1. AUC score: 0.86
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 2. AUC score: 0.878
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 3. AUC score: 0.613
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 4. AUC score: 0.632
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 5. AUC score: 0.654
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 6. AUC score: 0.732
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 7. AUC score: 0.786
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 8. AUC score: 0.724
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 9. AUC score: 0.701
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 10. AUC score: 0.692
+Median AUC: 0.712
+total runtime: 137s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans GOTerms dataset_v2.tsv, for filter: LogOddsRatio
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 1. AUC score: 0.856
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 2. AUC score: 0.939
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 3. AUC score: 0.629
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 4. AUC score: 0.633
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 5. AUC score: 0.688
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 6. AUC score: 0.777
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 7. AUC score: 0.839
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 8. AUC score: 0.732
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 9. AUC score: 0.662
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 10. AUC score: 0.737
+Median AUC: 0.735
+total runtime: 173s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans Phenotypes dataset_v2.tsv, for filter: LogOddsRatio
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 1. AUC score: 0.842
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 2. AUC score: 0.901
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 3. AUC score: 0.612
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 4. AUC score: 0.636
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 5. AUC score: 0.65
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 6. AUC score: 0.753
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 7. AUC score: 0.772
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 8. AUC score: 0.682
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 9. AUC score: 0.613
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 10. AUC score: 0.64
+Median AUC: 0.666
+total runtime: 29s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans GenAge dataset_v2.tsv, for filter: LogOddsRatio
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 1. AUC score: 0.817
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 2. AUC score: 0.861
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 3. AUC score: 0.585
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 4. AUC score: 0.521
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 5. AUC score: 0.704
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 6. AUC score: 0.719
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 7. AUC score: 0.76
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 8. AUC score: 0.639
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 9. AUC score: 0.598
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 10. AUC score: 0.667
+Median AUC: 0.686
+total runtime: 17s
+
+
+Opening the file: Drosophila datasets (validation experiment)\Drosophila Protein Interactors .tsv, for filter: LogOddsRatio
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 1. AUC score: 0.667
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 2. AUC score: 0.667
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 3. AUC score: 0.667
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 4. AUC score: 0.917
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 5. AUC score: 0.5
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 6. AUC score: 0.75
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 7. AUC score: 0.25
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 8. AUC score: 1.0
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 9. AUC score: 0.75
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 10. AUC score: 1.0
+Median AUC: 0.708
+total runtime: 18s
+
+
+Opening the file: Drosophila datasets (validation experiment)\Drosophila GO Terms.tsv, for filter: LogOddsRatio
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 1. AUC score: 0.0
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 2. AUC score: 0.833
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 3. AUC score: 1.0
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 4. AUC score: 0.0
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 5. AUC score: 0.5
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 6. AUC score: 0.5
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 7. AUC score: 0.0
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 8. AUC score: 0.5
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 9. AUC score: 0.75
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 10. AUC score: 1.0
+Median AUC: 0.5
+total runtime: 30s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans Protein Interactors dataset_v1.tsv, for filter: AsymmetricOptimalPrediction
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 1. AUC score: 0.885
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 2. AUC score: 0.845
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 3. AUC score: 0.612
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 4. AUC score: 0.746
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 5. AUC score: 0.539
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 6. AUC score: 0.763
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 7. AUC score: 0.87
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 8. AUC score: 0.645
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 9. AUC score: 0.618
+Warning, invalid k value. k: 0 features: 5789. Setting k as all.
+Fold 10. AUC score: 0.692
+Median AUC: 0.719
+total runtime: 144s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans GOTerms dataset_v1.tsv, for filter: AsymmetricOptimalPrediction
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 1. AUC score: 0.664
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 2. AUC score: 0.754
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 3. AUC score: 0.688
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 4. AUC score: 0.741
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 5. AUC score: 0.849
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 6. AUC score: 0.787
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 7. AUC score: 0.843
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 8. AUC score: 0.883
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 9. AUC score: 0.913
+Warning, invalid k value. k: 0 features: 7707. Setting k as all.
+Fold 10. AUC score: 0.852
+Median AUC: 0.815
+total runtime: 147s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans Phenotypes dataset_v1.tsv, for filter: AsymmetricOptimalPrediction
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 1. AUC score: 0.634
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 2. AUC score: 0.66
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 3. AUC score: 0.643
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 4. AUC score: 0.669
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 5. AUC score: 0.776
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 6. AUC score: 0.666
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 7. AUC score: 0.869
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 8. AUC score: 0.897
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 9. AUC score: 0.893
+Warning, invalid k value. k: 0 features: 1273. Setting k as all.
+Fold 10. AUC score: 0.863
+Median AUC: 0.722
+total runtime: 38s
+
+
+Opening the file: C Elegans dataset examples\Version-1 datasets (no score threshold)\CElegans GenAge dataset_v1.tsv, for filter: AsymmetricOptimalPrediction
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 1. AUC score: 0.671
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 2. AUC score: 0.638
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 3. AUC score: 0.619
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 4. AUC score: 0.653
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 5. AUC score: 0.741
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 6. AUC score: 0.758
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 7. AUC score: 0.77
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 8. AUC score: 0.754
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 9. AUC score: 0.829
+Warning, invalid k value. k: 0 features: 366. Setting k as all.
+Fold 10. AUC score: 0.839
+Median AUC: 0.747
+total runtime: 26s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans Protein Interactors dataset_v2.tsv, for filter: AsymmetricOptimalPrediction
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 1. AUC score: 0.85
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 2. AUC score: 0.882
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 3. AUC score: 0.618
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 4. AUC score: 0.632
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 5. AUC score: 0.653
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 6. AUC score: 0.737
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 7. AUC score: 0.796
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 8. AUC score: 0.718
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 9. AUC score: 0.69
+Warning, invalid k value. k: 0 features: 2773. Setting k as all.
+Fold 10. AUC score: 0.696
+Median AUC: 0.707
+total runtime: 120s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans GOTerms dataset_v2.tsv, for filter: AsymmetricOptimalPrediction
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 1. AUC score: 0.871
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 2. AUC score: 0.93
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 3. AUC score: 0.633
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 4. AUC score: 0.635
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 5. AUC score: 0.692
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 6. AUC score: 0.781
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 7. AUC score: 0.843
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 8. AUC score: 0.738
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 9. AUC score: 0.664
+Warning, invalid k value. k: 0 features: 5778. Setting k as all.
+Fold 10. AUC score: 0.733
+Median AUC: 0.735
+total runtime: 160s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans Phenotypes dataset_v2.tsv, for filter: AsymmetricOptimalPrediction
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 1. AUC score: 0.84
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 2. AUC score: 0.903
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 3. AUC score: 0.604
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 4. AUC score: 0.637
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 5. AUC score: 0.634
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 6. AUC score: 0.77
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 7. AUC score: 0.775
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 8. AUC score: 0.679
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 9. AUC score: 0.638
+Warning, invalid k value. k: 0 features: 1036. Setting k as all.
+Fold 10. AUC score: 0.644
+Median AUC: 0.662
+total runtime: 27s
+
+
+Opening the file: C Elegans dataset examples\Version-2 datasets (45% minimum score threshold)\CElegans GenAge dataset_v2.tsv, for filter: AsymmetricOptimalPrediction
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 1. AUC score: 0.814
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 2. AUC score: 0.863
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 3. AUC score: 0.587
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 4. AUC score: 0.529
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 5. AUC score: 0.695
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 6. AUC score: 0.724
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 7. AUC score: 0.753
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 8. AUC score: 0.629
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 9. AUC score: 0.598
+Warning, invalid k value. k: 0 features: 153. Setting k as all.
+Fold 10. AUC score: 0.674
+Median AUC: 0.685
+total runtime: 15s
+
+
+Opening the file: Drosophila datasets (validation experiment)\Drosophila Protein Interactors .tsv, for filter: AsymmetricOptimalPrediction
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 1. AUC score: 0.667
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 2. AUC score: 1.0
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 3. AUC score: 0.667
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 4. AUC score: 0.917
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 5. AUC score: 0.5
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 6. AUC score: 0.75
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 7. AUC score: 0.25
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 8. AUC score: 1.0
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 9. AUC score: 0.75
+Warning, invalid k value. k: 0 features: 131. Setting k as all.
+Fold 10. AUC score: 1.0
+Median AUC: 0.75
+total runtime: 16s
+
+
+Opening the file: Drosophila datasets (validation experiment)\Drosophila GO Terms.tsv, for filter: AsymmetricOptimalPrediction
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 1. AUC score: 0.0
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 2. AUC score: 0.833
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 3. AUC score: 1.0
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 4. AUC score: 0.167
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 5. AUC score: 0.5
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 6. AUC score: 0.0
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 7. AUC score: 0.0
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 8. AUC score: 0.75
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 9. AUC score: 0.75
+Warning, invalid k value. k: 0 features: 2345. Setting k as all.
+Fold 10. AUC score: 1.0
+Median AUC: 0.625
+total runtime: 26s
+
+
